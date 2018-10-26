@@ -1,0 +1,258 @@
+
+
+/*overview*/
+#about .overview .col-sm-6{
+	padding: 0;
+}
+
+#about .overview{
+	position: relative;
+}
+
+#about .overview .box-img {
+	height: 500px;
+}
+
+#about .overview .box-img img{
+width: 100%;
+height: 100%;
+object-fit: cover;
+}
+#about .overview .inner-overview{
+	position: absolute;
+	top: 0;
+}
+#about .overview .inner-overview .text{
+	padding: 50px;
+	display: flex;
+	flex-direction: column;
+}
+#about .overview .inner-overview .text .title{
+	display:flex;
+}
+#about .overview .inner-overview .text .title img{
+
+	width: 24px;
+	height: 43px;
+}
+#about .overview .inner-overview .text h2{
+	font-weight: bold;
+	color: #00A651;
+margin-top: 10px;
+margin-left: 10px;
+}
+#about .overview .inner-overview .text .subtitle{
+	margin-top: 20px;
+}
+#about .overview .inner-overview .text .subtitle p{
+width: 100%;
+margin-top: 30px;
+}
+
+
+/*vision-left*/
+#about .mission .text-left {
+	padding: 50px;
+}
+
+#about .mission .text-left .title{
+	display: flex;
+}
+
+#about .mission .text-left .title img{
+	width: 24px;
+	height: 43px;
+}
+
+#about .mission .text-left .title h2{
+	font-weight: bold;
+	color: #00A651;
+	margin-top: 10px;
+	margin-left: 15px;
+}
+
+#about .mission .text-left .subtitle h2 {
+	color: #808285;
+	font-weight: bold;
+	width: 55%;
+	margin-top: 50px;
+}
+
+/*vision-right*/
+
+#about .mission .text-right {
+	background-color: #00A651;
+	text-align: left;
+	padding: 50px;
+}
+
+#about .mission .text-right .title{
+	display: flex;
+}
+
+#about .mission .text-right .title img{
+	width: 24px;
+	height: 43px;
+}
+
+#about .mission .text-right .title h2{
+	font-weight: bold;
+	color: white;
+	margin-top: 10px;
+	margin-left: 15px;
+}
+
+#about .mission .text-right .subtitle h2 {
+	color: white;
+	font-weight: bold;
+	width: 55%;
+	margin-top: 50px;
+	text-align: left;
+}
+
+
+/*Our people*/
+
+#about .people .col-sm-6{
+	padding: 0;
+}
+
+#about .people{
+	position: relative;
+}
+
+#about .people .box-img {
+	height: 500px;
+}
+
+#about .people .box-img img{
+width: 100%;
+height: 100%;
+object-fit: cover;
+
+}
+#about .people .inner-people{
+	position: absolute;
+	top: 0;
+}
+#about .people .inner-people .text{
+	padding: 50px;
+	display: flex;
+	flex-direction: column;
+}
+#about .people .inner-people .text .title{
+	display:flex;
+}
+#about .people .inner-people .text .title img{
+
+	width: 24px;
+	height: 43px;
+}
+#about .people .inner-people .text h2{
+	font-weight: bold;
+	color: #00A651;
+margin-top: 10px;
+margin-left: 10px;
+}
+#about .people .inner-people .text .subtitle{
+	margin-top: 20px;
+}
+#about .people .inner-people .text .subtitle h2{
+font-weight: bold;
+color: #808285;
+margin-top: 30px;
+width: 60%;
+}
+
+
+
+/*qoute-plant*/
+
+/*qoute plant text align left*/
+#about .qoute-plant .black-layer{
+  opacity: 0;
+    transition: 0.5s;
+}
+#about .qoute-plant .qoute-plant-text{
+  margin: 50px 30px;
+  text-align: left;
+}
+
+#about .qoute-plant .qoute-plant-text p{
+  color: #808285;
+  margin-bottom: 30px;
+}
+
+#about .qoute-plant .qoute-plant-text h3{
+  width: 50%;
+  margin-bottom: 30px;
+    transition: 0.5s;
+}
+
+/*qoute plant text align right*/
+#about .qoute-plant .qoute-plant-text1{
+    margin: 50px 30px;
+  text-align: right;
+}
+
+
+#about .qoute-plant .qoute-plant-text1 p{
+  color: #808285 !important;
+  margin-bottom: 30px;
+}
+
+#about .qoute-plant .qoute-plant-text1 h3{
+  margin-bottom: 30px;
+  transition: 0.5s;
+  margin-right: 0px;
+padding-left: 100px;
+}
+
+#about .row{
+	margin:0;
+}
+#about .qoute-plant .col-sm-6{
+	padding: 0px;
+}
+
+#about .qoute-plant .col-sm-6 .text {
+  position: absolute;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  top: 30px;
+  flex-direction: column;
+  opacity: 0;
+  z-index: 10;
+  transition: 0.7s;
+}
+
+#about .qoute-plant .col-sm-6 img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+#about .qoute-plant .col-sm-6 .text img{
+  width: 24px;
+  height: 43px;
+  margin: 30px 0px;
+}
+/*hover qoute plant */
+#about .qoute-plant .col-sm-6:hover .qoute-plant-text h3{
+  color: green;
+}
+#about .qoute-plant .col-sm-6:hover .qoute-plant-text1 h3{
+  color: green;
+}
+
+#about .qoute-plant .col-sm-6:hover .black-layer{
+  opacity: 1;
+}
+
+#about .qoute-plant .col-sm-6:hover .text{
+  opacity: 1;
+}
+

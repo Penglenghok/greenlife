@@ -1,0 +1,120 @@
+
+/*home-portfolio*/
+#portfolio .home-portfolio .col-sm-3{
+  padding: 0px;
+  overflow: hidden;
+}
+#portfolio .home-portfolio .box-img{
+height: 480px;
+}
+
+#portfolio .home-portfolio .col-sm-3 img{
+width: 100%;
+height: 100%;
+object-fit: cover;
+transition: 0.5s;
+}
+
+#portfolio .home-portfolio .col-sm-3:hover img{
+  transform: scale(1.1);
+}
+
+
+#portfolio .home-portfolio .black-layer {
+  opacity: 0;
+  transition: 0.5s;
+}
+
+#portfolio .home-portfolio .col-sm-3:hover .black-layer{
+  opacity: 1;
+}
+
+#portfolio .home-portfolio .text{
+  display: flex;
+  width: 100%;
+  height: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0px;
+  padding-top: 140px;
+  z-index: 10;
+  color: white;
+  opacity: 0;
+  transition: 0.7s;
+}
+
+#portfolio .home-portfolio .text img{
+  width: 24px;
+  height: 43px;
+  margin-bottom: 30px;
+}
+
+#portfolio .home-portfolio .text h3{
+  margin: 0px;
+}
+
+#portfolio .home-portfolio .text h3 span{
+  margin-top: 30px;
+  font-weight: bold;
+
+}
+
+#portfolio .home-portfolio .text p{
+  margin-top: 30px;
+}
+#portfolio .home-portfolio .text button{
+  margin-top: 15px;
+}
+
+#portfolio .home-portfolio .col-sm-3:hover .text{
+opacity: 1;
+}
+
+
+
+/*navigation*/
+#portfolio .navigation{
+  height: 80px;
+  background-color:#00A651;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#portfolio .navigation .inner-navigation{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+}
+#portfolio .navigation .inner-navigation .arrow{
+  display: flex;
+  color: white;
+}
+#portfolio .navigation .inner-navigation a{
+  text-decoration: none;
+}
+#portfolio .navigation .inner-navigation .arrow img{
+width: 20px;
+height: 20px;
+margin: 0 5px;
+}
+#portfolio .navigation .inner-navigation .box{
+  display: flex;
+  justify-content: center;align-items: center;
+  width: 40px;
+  height: 40px;
+  border: solid 1px white;
+  color: white;
+margin: 0 10px;
+text-decoration: none;
+transition: 0.5s;
+}
+#portfolio .navigation .inner-navigation .box:hover{
+  color: #00A651;
+  background-color: white;
+}
+#portfolio .navigation .inner-navigation .arrow:hover p{
+text-decoration: underline;
+}

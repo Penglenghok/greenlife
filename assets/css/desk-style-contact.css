@@ -1,0 +1,67 @@
+#contact .col-sm-6{
+	padding: 0px;
+}
+
+#contact .overview{
+	position: relative;
+}
+#contact .overview img{
+width: 100%;
+height: 750px;
+object-fit: cover;
+}
+
+#contact .overview .inner-overview{
+	position: absolute;
+	top: 0;
+}
+#contact .inner-overview .form {
+	margin: 50px;
+}
+
+#contact .inner-overview .form .title{
+	display: flex;
+}
+
+#contact .inner-overview .form .title img{
+	width: 24px;
+	height: 43px;
+}
+
+#contact .inner-overview .form .title h2{
+	color: #00A551;
+	font-weight: bold;
+	padding-top: 10px;
+	padding-left: 15px;
+}
+
+#contact .inner-overview .form form{
+	display: flex;
+	flex-direction: column;
+}
+#contact .inner-overview .form form input{
+	height: 40px;
+	margin-top:30px;
+	padding-left: 15px;
+	border: solid 1px black;
+}
+
+#contact .inner-overview .form form textarea{
+		height: 275px;
+	margin-top:30px;
+	padding-top: 10px;
+	padding-left: 15px;
+		border: solid 1px black;
+}
+#contact .inner-overview .form button{
+	margin-top: 30px;
+	display: flex;
+	justify-content: flex-end;
+	align-items: flex-end;
+}
+
+/*Map*/
+
+#contact .map{
+	height: 750px;
+}
