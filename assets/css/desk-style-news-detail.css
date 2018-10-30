@@ -1,0 +1,48 @@
+
+
+#detail .left .box-img{
+	width: 100%;
+	height: 368px;
+
+}
+
+#detail .left .box-img img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+#detail .left .social-media {
+	margin-top: 30px;
+}
+
+#detail .right{
+	margin-top: 50px;
+}
+
+
+#detail .right .text .date{
+	margin-top: 30px;
+}
+
+#detail .right .text .summary{
+ margin-top: 30px;
+ line-height: 25px;
+}
+
+#detail .right .text .summary ul{
+
+	margin-left: 50px;
+	list-style:decimal;
+}
+
+#detail .right .box-img{
+	margin-top: 30px;
+	width: 100%;
+}
+
+#detail .right .box-img img{
+	width: 100%;
+	object-fit: cover;
+
+}

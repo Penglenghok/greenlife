@@ -1,0 +1,72 @@
+
+#detail .left .box-img {
+	width: 100%;
+	height: 368px;
+}
+
+#detail .left .box-img img{
+	object-fit: cover;
+	width: 100%;
+	height: 100%;
+}
+
+#detail .left .social-media {
+	margin-top: 30px;
+	width: 282px;
+	height: 20px;
+}
+
+#detail .left .social-media img{
+	width: 100%;
+	height: 100%;
+
+}
+
+
+
+
+
+
+/*right*/
+#detail .right{
+	margin-top: 50px;
+}
+
+#detail .right .text{
+width: 530px;
+}
+
+#detail .right .text .text-detail{
+	display: flex;
+}
+
+#detail .right .text .text-detail p{
+margin-top: 3px;
+flex:1;
+}
+
+#detail .right .text .text-detail .p-title{
+	padding-top: 20px;
+}
+
+#detail .right .text .text-detail .title{
+ font-size: 35px;
+}
+
+#detail .right .text .text-detail p span{
+	margin-left: -150px;
+}
+
+#detail .right .text .text-detail h2{
+	flex:2;
+}
+
+#detail .right  .box-img{
+	margin-top: 30px;
+	width: 100%;
+}
+
+#detail .right  .box-img img{
+	width: 100%;
+	object-fit: cover;
+}

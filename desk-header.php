@@ -19,8 +19,6 @@ $BATH_URL=BASE_URL;
   <link rel="stylesheet" type="text/css" href="<?php echo $BATH_URL;?>assets/vendor/slick-slider/slick.css">
   <script type="text/javascript" src="<?php echo $BATH_URL;?>assets/vendor/slick-slider/slick.min.js"></script>
   <script type="text/javascript" src="<?php echo $BATH_URL;?>assets/vendor/scroll-fixed-header-menu2.js"></script>
-
-
 </head>
 <body>
   <div id="wrapper">
@@ -91,8 +89,8 @@ $BATH_URL=BASE_URL;
                   <li><a href="" title=""><img src="<?php echo $BATH_URL;?>assets/img/icon/youtube.svg"></a></li>
                 </ul>
                  <ul class="menu-top">
-                  <li><a href="">CAREERS</a></li>
-                  <li><a href="">FAQ</a></li>
+                  <li><a href="<?php echo $BATH_URL;?>desktop/content-career.php">CAREERS</a></li>
+                  <li><a href="<?php echo $BATH_URL;?>desktop/content-faq.php">FAQ</a></li>
                   <li><a href="">MAP</a></li>
                   <li><a href="">VISIT US</a></li>
                 </ul>

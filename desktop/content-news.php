@@ -21,7 +21,7 @@ include_once('../desk-header.php');
             <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-news-02.jpg">
             <div class="text">
              <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-             <button class="button-1"><a href="">VIEW MORE</a></button>
+             <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">VIEW MORE</a></button>
            </div>
          </div>
          <div class="col-sm-6">
@@ -45,7 +45,7 @@ include_once('../desk-header.php');
           <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-news-03.jpg">
           <div class="text">
            <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-           <button class="button-1"><a href="">VIEW MORE</a></button>
+           <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">VIEW MORE</a></button>
          </div>
        </div>
        <div class="col-sm-6">
@@ -80,7 +80,7 @@ include_once('../desk-header.php');
         <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-news-05.jpg">
         <div class="text">
          <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-         <button class="button-1"><a href="">VIEW MORE</a></button>
+         <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">VIEW MORE</a></button>
        </div>
      </div>
    </div>
@@ -104,7 +104,7 @@ include_once('../desk-header.php');
     <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-news-06.jpg">
     <div class="text">
      <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-     <button class="button-1"><a href="">VIEW MORE</a></button>
+     <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">VIEW MORE</a></button>
    </div>
  </div>
 </div>
@@ -119,7 +119,7 @@ include_once('../desk-header.php');
             <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-news-02.jpg">
             <div class="text">
              <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-             <button class="button-1"><a href="">VIEW MORE</a></button>
+             <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">VIEW MORE</a></button>
            </div>
          </div>
          <div class="col-sm-6">
@@ -143,7 +143,7 @@ include_once('../desk-header.php');
           <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-news-03.jpg">
           <div class="text">
            <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-           <button class="button-1"><a href="">VIEW MORE</a></button>
+           <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">VIEW MORE</a></button>
          </div>
        </div>
        <div class="col-sm-6">
@@ -178,7 +178,7 @@ include_once('../desk-header.php');
         <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-news-05.jpg">
         <div class="text">
          <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-         <button class="button-1"><a href="">VIEW MORE</a></button>
+         <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">VIEW MORE</a></button>
        </div>
      </div>
    </div>
@@ -202,7 +202,7 @@ include_once('../desk-header.php');
     <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-news-06.jpg">
     <div class="text">
      <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-     <button class="button-1"><a href="">VIEW MORE</a></button>
+     <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">VIEW MORE</a></button>
    </div>
  </div>
 </div>
@@ -217,7 +217,7 @@ include_once('../desk-header.php');
             <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-news-02.jpg">
             <div class="text">
              <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-             <button class="button-1"><a href="">VIEW MORE</a></button>
+             <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">VIEW MORE</a></button>
            </div>
          </div>
          <div class="col-sm-6">
@@ -241,7 +241,7 @@ include_once('../desk-header.php');
           <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-news-03.jpg">
           <div class="text">
            <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-           <button class="button-1"><a href="">VIEW MORE</a></button>
+           <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">VIEW MORE</a></button>
          </div>
        </div>
        <div class="col-sm-6">
@@ -276,7 +276,7 @@ include_once('../desk-header.php');
         <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-news-05.jpg">
         <div class="text">
          <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-         <button class="button-1"><a href="">VIEW MORE</a></button>
+         <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">VIEW MORE</a></button>
        </div>
      </div>
    </div>
@@ -300,7 +300,7 @@ include_once('../desk-header.php');
     <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-news-06.jpg">
     <div class="text">
      <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-     <button class="button-1"><a href="">VIEW MORE</a></button>
+     <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">VIEW MORE</a></button>
    </div>
  </div>
 </div>
@@ -315,7 +315,7 @@ include_once('../desk-header.php');
             <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-news-02.jpg">
             <div class="text">
              <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-             <button class="button-1"><a href="">VIEW MORE</a></button>
+             <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">VIEW MORE</a></button>
            </div>
          </div>
          <div class="col-sm-6">
@@ -339,7 +339,7 @@ include_once('../desk-header.php');
           <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-news-03.jpg">
           <div class="text">
            <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-           <button class="button-1"><a href="">VIEW MORE</a></button>
+           <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">VIEW MORE</a></button>
          </div>
        </div>
        <div class="col-sm-6">
@@ -374,7 +374,7 @@ include_once('../desk-header.php');
         <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-news-05.jpg">
         <div class="text">
          <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-         <button class="button-1"><a href="">VIEW MORE</a></button>
+         <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">VIEW MORE</a></button>
        </div>
      </div>
    </div>
@@ -398,7 +398,7 @@ include_once('../desk-header.php');
     <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-news-06.jpg">
     <div class="text">
      <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-     <button class="button-1"><a href="">VIEW MORE</a></button>
+     <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">VIEW MORE</a></button>
    </div>
  </div>
 </div>
@@ -414,7 +414,7 @@ include_once('../desk-header.php');
             <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-news-02.jpg">
             <div class="text">
              <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-             <button class="button-1"><a href="">VIEW MORE</a></button>
+             <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">VIEW MORE</a></button>
            </div>
          </div>
          <div class="col-sm-6">
@@ -439,56 +439,56 @@ include_once('../desk-header.php');
 <!-- navigation -->
       <div class="container-fluid navigation">
         <div class="inner-navigation">
-          <a href="">
+          <a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">
             <div class="arrow">
               <img src="<?php echo $BATH_URL;?>assets/img/icon/left-arrow.svg"><p>Prev</p>
             </div>
           </a>
-          <a href="">
+          <a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">
             <div class="box">
               1
             </div>
           </a>
-          <a href="">
+          <a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">
             <div class="box">
               2
             </div>
           </a>
 
-          <a href="">
+          <a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">
             <div class="box">
               3
             </div>
           </a>
 
-          <a href="">
+          <a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">
             <div class="box">
               4
             </div>
           </a>
 
-          <a href="">
+          <a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">
             <div class="box">
               5
             </div>
           </a>
 
-          <a href="">
+          <a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">
             <div class="box">
               6
             </div>
           </a>
-          <a href="">
+          <a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">
             <div class="box">
               7
             </div>
           </a>
-          <a href="">
+          <a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">
             <div class="box">
               8
             </div>
           </a>
-          <a href="">
+          <a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">
             <div class="arrow">
               <p>Next</p><img src="<?php echo $BATH_URL;?>assets/img/icon/right-arrow.svg">
             </div>

@@ -46,7 +46,7 @@
               <div class="contact-overview">
                 <div class="title"><img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg"><h2>CONTACT</h2></div>
                 <div class="subtitle"><h2>MEET OUR EXPERTISE TO DISCUSS ABOUT YOUR LANDSCAPING PLAN.</h2></div>
-                <button class="button-1"><a href="">CONTACT GREEN</a></button>
+                <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-contact.php">CONTACT GREEN</a></button>
               </div>
             </div>
           </div>

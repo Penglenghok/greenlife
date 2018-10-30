@@ -1,0 +1,50 @@
+
+
+
+
+#faq .question{
+  color:#00A651;
+  padding: 18px;
+  padding-right: 150px;
+  width: 100%;
+  border-top:1px solid #e0e0e0;
+  text-align: left;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#faq .answer{
+  padding-left: 15px;
+  padding-right: 150px;
+  width: 95%;
+}
+
+#faq .container .title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
+#faq .container .title img{
+width: 24px;
+height: 43px;
+}
+
+#faq .container .title h2{
+  color: #00A651;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-left: 15px;
+}
+
+#faq .container .subtitle {
+  display: flex;justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 30px;
+}
+
+#faq .main-faq {
+  margin:30px 0px;
+}

@@ -22,7 +22,7 @@
               <div class="col-sm-6 text1">
                 <div class="title"><img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg"><h2>OVERVIEW</h2></div>
                 <div class="subtitle"><h2>CHOOSE US TO HELP YOU MAKING YOUR LIFE GREEN</h2></div>
-                <button class="button-1"><a href="">ABOUT GREEN</a></button>
+                <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-about">ABOUT GREEN</a></button>
               </div>
             </div>
           </div>
@@ -49,7 +49,7 @@
            <div class="col-sm-6 text2">
             <div class="title"><img src="<?php echo $BATH_URL;?>assets/img/icon/tree-white.svg"><h2>SERVICES</h2></div>
             <div class="subtitle"><h2>POTTER PLANT GARDENING WATERING SYSTEM MAINTENANCE</h2></div>
-            <button class="button-2"><a href="">OUR SERVICES</a></button>
+            <button class="button-2"><a href="<?php echo $BATH_URL;?>desktop/content-service.php">OUR SERVICES</a></button>
           </div>
           <div class="col-sm-6"></div>
         </div>
@@ -138,7 +138,7 @@
         <h3><span>GLORIA JEAN COFFEE</span></h3>
         <h3>TOUK KORK BRAND</h3>
         <p>Potter Plant Supply & Maintenance</p>
-        <button class="button-1"><a href="">VIEW MORE</a></button>
+        <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
       </div>
 
     </div>
@@ -153,7 +153,7 @@
       <h3><span>GLORIA JEAN COFFEE</span></h3>
       <h3>TOUK KORK BRAND</h3>
       <p>Potter Plant Supply & Maintenance</p>
-      <button class="button-1"><a href="">VIEW MORE</a></button>
+      <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
     </div>
   </div>
 
@@ -167,7 +167,7 @@
     <h3><span>GLORIA JEAN COFFEE</span></h3>
     <h3>TOUK KORK BRAND</h3>
     <p>Potter Plant Supply & Maintenance</p>
-    <button class="button-1"><a href="">VIEW MORE</a></button>
+    <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
   </div>
 </div>
 
@@ -181,7 +181,7 @@
   <h3><span>GLORIA JEAN COFFEE</span></h3>
   <h3>TOUK KORK BRAND</h3>
   <p>Potter Plant Supply & Maintenance</p>
-  <button class="button-1"><a href="">VIEW MORE</a></button>
+  <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
 </div>
 </div>
 </div>
@@ -197,7 +197,7 @@
     <h3><span>GLORIA JEAN COFFEE</span></h3>
     <h3>TOUK KORK BRAND</h3>
     <p>Potter Plant Supply & Maintenance</p>
-    <button class="button-1"><a href="">VIEW MORE</a></button>
+    <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
   </div>
 </div>
 
@@ -211,7 +211,7 @@
   <h3><span>GLORIA JEAN COFFEE</span></h3>
   <h3>TOUK KORK BRAND</h3>
   <p>Potter Plant Supply & Maintenance</p>
-  <button class="button-1"><a href="">VIEW MORE</a></button>
+  <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
 </div>
 </div>
 
@@ -225,7 +225,7 @@
   <h3><span>GLORIA JEAN COFFEE</span></h3>
   <h3>TOUK KORK BRAND</h3>
   <p>Potter Plant Supply & Maintenance</p>
-  <button class="button-1"><a href="">VIEW MORE</a></button>
+  <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
 </div>
 </div>
 <div class="col-sm-3">
@@ -238,7 +238,7 @@
   <h3><span>GLORIA JEAN COFFEE</span></h3>
   <h3>TOUK KORK BRAND</h3>
   <p>Potter Plant Supply & Maintenance</p>
-  <button class="button-1"><a href="">VIEW MORE</a></button>
+  <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
 </div>
 </div>
 </div>
@@ -247,7 +247,6 @@
 
 
 <!-- news and tip -->
-
 <div class="container-fluid">
   <div class="overview">
     <div class="row">
@@ -266,7 +265,7 @@
         <div class="col-sm-6 text3">
           <div class="title"><img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg"><h2>NEWS & TIPS</h2></div>
           <div class="subtitle"><h2>THERE’S NOTHING WRONG WITH READING A BOOK YOU LOVE OVER AND OVER.</h2></div>
-          <button class="button-1"><a href="">NEWS</a></button>
+          <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-news.php">NEWS</a></button>
         </div>
       </div>
     </div>
@@ -286,7 +285,7 @@
             <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-news-02.jpg">
             <div class="text">
              <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-             <button class="button-1"><a href="">VIEW MORE</a></button>
+             <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">VIEW MORE</a></button>
            </div>
          </div>
          <div class="col-sm-6">
@@ -310,7 +309,7 @@
           <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-news-03.jpg">
           <div class="text">
            <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-           <button class="button-1"><a href="">VIEW MORE</a></button>
+           <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">VIEW MORE</a></button>
          </div>
        </div>
        <div class="col-sm-6">
@@ -345,7 +344,7 @@
         <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-news-05.jpg">
         <div class="text">
          <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-         <button class="button-1"><a href="">VIEW MORE</a></button>
+         <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">VIEW MORE</a></button>
        </div>
      </div>
    </div>
@@ -369,7 +368,7 @@
     <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-news-06.jpg">
     <div class="text">
      <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-     <button class="button-1"><a href="">VIEW MORE</a></button>
+     <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-news-detail.php">VIEW MORE</a></button>
    </div>
  </div>
 </div>
