@@ -10,7 +10,7 @@ include_once('../desk-header.php');
 			<!-- home portfolio -->
 			<div class="container-fluid home-portfolio">
 				<div class="row">
-					<div class="col-sm-3">
+					<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-01.jpg">
@@ -22,10 +22,9 @@ include_once('../desk-header.php');
 							<p>Potter Plant Supply & Maintenance</p>
 							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
 						</div>
-
 					</div>
 
-					<div class="col-sm-3">
+					<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-09.jpg">
@@ -39,7 +38,7 @@ include_once('../desk-header.php');
 						</div>
 					</div>
 
-					<div class="col-sm-3">
+					<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-03.jpg">
@@ -53,7 +52,7 @@ include_once('../desk-header.php');
 						</div>
 					</div>
 
-					<div class="col-sm-3">
+					<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-04.jpg">
@@ -69,7 +68,7 @@ include_once('../desk-header.php');
 				</div>
 
 				<div class="row">
-					<div class="col-sm-3">
+					<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-05.jpg">
@@ -83,7 +82,7 @@ include_once('../desk-header.php');
 						</div>
 					</div>
 
-					<div class="col-sm-3">
+					<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-06.jpg">
@@ -97,7 +96,7 @@ include_once('../desk-header.php');
 						</div>
 					</div>
 
-					<div class="col-sm-3">
+					<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-07.jpg">
@@ -110,7 +109,7 @@ include_once('../desk-header.php');
 							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
 						</div>
 					</div>
-					<div class="col-sm-3">
+					<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-08.jpg">
@@ -125,9 +124,11 @@ include_once('../desk-header.php');
 					</div>
 				</div>
 
+		
 				<!-- row 2 -->
-				<div class="row">
-					<div class="col-sm-3">
+
+					<div class="row">
+					<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-01.jpg">
@@ -139,10 +140,9 @@ include_once('../desk-header.php');
 							<p>Potter Plant Supply & Maintenance</p>
 							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
 						</div>
-
 					</div>
 
-					<div class="col-sm-3">
+					<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-09.jpg">
@@ -156,7 +156,7 @@ include_once('../desk-header.php');
 						</div>
 					</div>
 
-					<div class="col-sm-3">
+					<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-03.jpg">
@@ -170,7 +170,7 @@ include_once('../desk-header.php');
 						</div>
 					</div>
 
-					<div class="col-sm-3">
+					<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-04.jpg">
@@ -186,7 +186,7 @@ include_once('../desk-header.php');
 				</div>
 
 				<div class="row">
-					<div class="col-sm-3">
+					<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-05.jpg">
@@ -200,7 +200,7 @@ include_once('../desk-header.php');
 						</div>
 					</div>
 
-					<div class="col-sm-3">
+					<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-06.jpg">
@@ -214,7 +214,7 @@ include_once('../desk-header.php');
 						</div>
 					</div>
 
-					<div class="col-sm-3">
+					<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-07.jpg">
@@ -227,7 +227,7 @@ include_once('../desk-header.php');
 							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
 						</div>
 					</div>
-					<div class="col-sm-3">
+					<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-08.jpg">
@@ -243,8 +243,9 @@ include_once('../desk-header.php');
 				</div>
 
 				<!-- row 3 -->
-				<div class="row">
-					<div class="col-sm-3">
+
+					<div class="row">
+					<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-01.jpg">
@@ -256,10 +257,9 @@ include_once('../desk-header.php');
 							<p>Potter Plant Supply & Maintenance</p>
 							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
 						</div>
-
 					</div>
 
-					<div class="col-sm-3">
+					<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-09.jpg">
@@ -273,7 +273,7 @@ include_once('../desk-header.php');
 						</div>
 					</div>
 
-					<div class="col-sm-3">
+					<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-03.jpg">
@@ -287,7 +287,7 @@ include_once('../desk-header.php');
 						</div>
 					</div>
 
-					<div class="col-sm-3">
+					<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-04.jpg">
@@ -303,7 +303,7 @@ include_once('../desk-header.php');
 				</div>
 
 				<div class="row">
-					<div class="col-sm-3">
+					<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-05.jpg">
@@ -317,7 +317,7 @@ include_once('../desk-header.php');
 						</div>
 					</div>
 
-					<div class="col-sm-3">
+					<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-06.jpg">
@@ -331,7 +331,7 @@ include_once('../desk-header.php');
 						</div>
 					</div>
 
-					<div class="col-sm-3">
+					<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-07.jpg">
@@ -344,7 +344,7 @@ include_once('../desk-header.php');
 							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
 						</div>
 					</div>
-					<div class="col-sm-3">
+					<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-08.jpg">
@@ -358,6 +358,8 @@ include_once('../desk-header.php');
 						</div>
 					</div>
 				</div>
+
+
 			</div>
 
 

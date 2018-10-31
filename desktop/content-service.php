@@ -20,7 +20,7 @@ include_once('../desk-header.php');
 					<div class="container inner-overview">
 						<div class="row">
 							<div class="col-sm-6"></div>
-							<div class="col-sm-6 text">
+							<div class="col-sm-6 text wow zoomIn">
 								<div class="title"><img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg"><h2>POTTER PLANT</h2></div>
 								<div class="subtitle"><h2>BRINGS YOUR
 									SPACE TO LIFE
@@ -83,7 +83,7 @@ include_once('../desk-header.php');
 							<div class="col-sm-6">
 								<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-service-06.jpg">
 							</div>
-							<div class="col-sm-6 text">
+							<div class="col-sm-6 text wow zoomIn">
 								<div class="title"><img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg"><h2>GARDENING</h2></div>
 								<div class="subtitle"><h2>
 									DESINING
@@ -142,7 +142,7 @@ MAINTENANING</h2></div>
 					<div class="container inner-overview">
 						<div class="row">
 							<div class="col-sm-6"></div>
-							<div class="col-sm-6 text">
+							<div class="col-sm-6 text wow zoomIn">
 								<div class="title"><img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg"><h2>WATERING SYSTEM</h2></div>
 								<div class="subtitle"><h2>HAVING
 THE EQUIPMENT,
@@ -206,7 +206,7 @@ IRRIGATION NEEDS</h2></div>
 							<div class="col-sm-6">
 								<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-service-09.jpg">
 							</div>
-							<div class="col-sm-6 text">
+							<div class="col-sm-6 text wow zoomIn">
 								<div class="title"><img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg"><h2>MAINTENANCE</h2></div>
 								<div class="subtitle"><h2>
 									RECEIVE

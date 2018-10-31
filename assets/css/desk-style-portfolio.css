@@ -1,6 +1,6 @@
 
 /*home-portfolio*/
-#portfolio .home-portfolio .col-sm-3{
+#portfolio .home-portfolio .col-lg-3{
   padding: 0px;
   overflow: hidden;
 }
@@ -8,14 +8,14 @@
 height: 480px;
 }
 
-#portfolio .home-portfolio .col-sm-3 img{
+#portfolio .home-portfolio .col-lg-3 img{
 width: 100%;
 height: 100%;
 object-fit: cover;
 transition: 0.5s;
 }
 
-#portfolio .home-portfolio .col-sm-3:hover img{
+#portfolio .home-portfolio .col-lg-3:hover img{
   transform: scale(1.1);
 }
 
@@ -25,7 +25,7 @@ transition: 0.5s;
   transition: 0.5s;
 }
 
-#portfolio .home-portfolio .col-sm-3:hover .black-layer{
+#portfolio .home-portfolio .col-lg-3:hover .black-layer{
   opacity: 1;
 }
 
@@ -68,7 +68,7 @@ transition: 0.5s;
   margin-top: 15px;
 }
 
-#portfolio .home-portfolio .col-sm-3:hover .text{
+#portfolio .home-portfolio .col-lg-3:hover .text{
 opacity: 1;
 }
 

@@ -31,6 +31,8 @@ p{
 .container-fluid{
   padding: 0px;
 }
+
+
 .black-layer{
   background:rgba(0,0,0,0.3);
   position: absolute;
@@ -241,6 +243,18 @@ p{
   height: 8px;
   background-color: white;
   bottom: 20px;
+}
+
+
+#header .carousel-item{
+  height: 750px;
+  overflow: hidden;
+}
+
+
+.carousel-inner img{
+  height: 750px;
+  object-fit: cover;
 }
 
 /*hover on icon prev-next*/

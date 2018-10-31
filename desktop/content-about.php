@@ -19,10 +19,10 @@ include_once('../desk-header.php');
 					<div class="container inner-overview">
 						<div class="row">
 							<div class="col-sm-6"></div>
-							<div class="col-sm-6 text">
-								<div class="title">	<img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
+							<div class="col-sm-6 text wow zoomIn">
+								<div class="title ">	<img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
 									<h2>ABOUT GREEN LIFE</h2></div>
-									<div class="subtitle">
+									<div class="subtitle ">
 										<p>GREEN LIFE is an award-winning landscaping service company operating
 											in Cambodia. We offer the best landscape packages to suit every need and
 											budget. Through our holistic approach our full range of landscape services
@@ -42,7 +42,7 @@ include_once('../desk-header.php');
 				<div class="container-fluid">
 					<div class="container mission">
 						<div class="row">
-							<div class="col-sm-6 text-left">
+							<div class="col-sm-6 text-left wow zoomIn">
 								<div class="title">
 									<img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg"">
 									<h2>OUR MISSION</h2>
@@ -85,7 +85,7 @@ include_once('../desk-header.php');
 						<div class="container inner-people">
 							<div class="row">
 								<div class="col-sm-6"></div>
-								<div class="col-sm-6 text">
+								<div class="col-sm-6 text wow zoomIn">
 									<div class="title">	<img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
 										<h2>OUR PEOPLE</h2></div>
 										<div class="subtitle">
@@ -114,7 +114,7 @@ include_once('../desk-header.php');
     <div class="row">
       <div class="col-sm-6">
         <div  class="row">
-          <div class="col-sm-6">
+          <div class="col-sm-6 wow zoomIn">
             <div class="black-layer"></div>
             <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-03.jpg">
             <div class="text">
@@ -137,7 +137,7 @@ DIRECTOR</h3>
 
     <div class="col-sm-6">
       <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-6 wow zoomIn" data-wow-duration="1.3">
           <div class="black-layer"></div>
           <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-02.jpg">
           <div class="text">
@@ -170,7 +170,7 @@ MANAGER.</h3>
           <div class="box-underline-right"><div class="underline"></div></div>
         </div>
       </div>
-      <div class="col-sm-6">
+      <div class="col-sm-6 wow zoomIn" data-wow-duration="1.6">
         <div class="black-layer"></div>
         <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-04.jpg">
         <div class="text">
@@ -193,7 +193,7 @@ ACCOUNTING</h3>
 
     </div>
   </div>
-  <div class="col-sm-6">
+  <div class="col-sm-6 wow zoomIn" data-wow-duration="1.9">
     <div class="black-layer"></div>
     <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-news-06.jpg">
     <div class="text">
@@ -205,10 +205,10 @@ ACCOUNTING</h3>
 </div>
 </div>
 
- <div class="row">
+    <div class="row">
       <div class="col-sm-6">
         <div  class="row">
-          <div class="col-sm-6">
+          <div class="col-sm-6 wow zoomIn">
             <div class="black-layer"></div>
             <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-03.jpg">
             <div class="text">
@@ -231,7 +231,7 @@ DIRECTOR</h3>
 
     <div class="col-sm-6">
       <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-6 wow zoomIn" data-wow-duration="1.3">
           <div class="black-layer"></div>
           <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-02.jpg">
           <div class="text">
@@ -264,7 +264,7 @@ MANAGER.</h3>
           <div class="box-underline-right"><div class="underline"></div></div>
         </div>
       </div>
-      <div class="col-sm-6">
+      <div class="col-sm-6 wow zoomIn" data-wow-duration="1.6">
         <div class="black-layer"></div>
         <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-04.jpg">
         <div class="text">
@@ -287,7 +287,7 @@ ACCOUNTING</h3>
 
     </div>
   </div>
-  <div class="col-sm-6">
+  <div class="col-sm-6 wow zoomIn" data-wow-duration="1.9">
     <div class="black-layer"></div>
     <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-news-06.jpg">
     <div class="text">

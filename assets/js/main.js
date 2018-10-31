@@ -40,9 +40,9 @@ dots:true,
 dotsClass:'dots-partner',
 nextArrow:'',
 prevArrow:'',
-
+  autoplay: true,
+  autoplaySpeed: 3000,
 });
-
   $('.partner li button').text('');
 
 

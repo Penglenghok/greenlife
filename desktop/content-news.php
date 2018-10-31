@@ -25,7 +25,7 @@ include_once('../desk-header.php');
            </div>
          </div>
          <div class="col-sm-6">
-          <div class="qoute-plant-text">
+          <div class="qoute-plant-text wow zoomIn">
             <p>MARCH 26, 2016</p>
             <h3>WHATEVER GOOD THINGS
               WE BUILD END UP GREEN
@@ -49,7 +49,7 @@ include_once('../desk-header.php');
          </div>
        </div>
        <div class="col-sm-6">
-         <div class="qoute-plant-text">
+         <div class="qoute-plant-text wow zoomIn">
           <p>MARCH 26, 2016</p>
           <h3>WHATEVER GOOD THINGS
             WE BUILD END UP GREEN
@@ -67,7 +67,7 @@ include_once('../desk-header.php');
   <div class="col-sm-6">
     <div  class="row">
       <div class="col-sm-6">
-        <div class="qoute-plant-text1">
+        <div class="qoute-plant-text1 wow zoomIn">
           <p>MARCH 26, 2016</p>
           <h3 >WHATEVER GOOD THINGS
             WE BUILD END UP GREEN
@@ -88,7 +88,7 @@ include_once('../desk-header.php');
  <div class="col-sm-6">
   <div class="row">
     <div class="col-sm-6">
-     <div class="qoute-plant-text1">
+     <div class="qoute-plant-text1 wow zoomIn">
       <p>MARCH 26, 2016</p>
       <h3 >WHATEVER GOOD THINGS
         WE BUILD END UP GREEN
@@ -123,7 +123,7 @@ include_once('../desk-header.php');
            </div>
          </div>
          <div class="col-sm-6">
-          <div class="qoute-plant-text">
+          <div class="qoute-plant-text wow zoomIn">
             <p>MARCH 26, 2016</p>
             <h3>WHATEVER GOOD THINGS
               WE BUILD END UP GREEN
@@ -147,7 +147,7 @@ include_once('../desk-header.php');
          </div>
        </div>
        <div class="col-sm-6">
-         <div class="qoute-plant-text">
+         <div class="qoute-plant-text wow zoomIn">
           <p>MARCH 26, 2016</p>
           <h3>WHATEVER GOOD THINGS
             WE BUILD END UP GREEN
@@ -165,7 +165,7 @@ include_once('../desk-header.php');
   <div class="col-sm-6">
     <div  class="row">
       <div class="col-sm-6">
-        <div class="qoute-plant-text1">
+        <div class="qoute-plant-text1 wow zoomIn">
           <p>MARCH 26, 2016</p>
           <h3 >WHATEVER GOOD THINGS
             WE BUILD END UP GREEN
@@ -186,7 +186,7 @@ include_once('../desk-header.php');
  <div class="col-sm-6">
   <div class="row">
     <div class="col-sm-6">
-     <div class="qoute-plant-text1">
+     <div class="qoute-plant-text1 wow zoomIn">
       <p>MARCH 26, 2016</p>
       <h3 >WHATEVER GOOD THINGS
         WE BUILD END UP GREEN
@@ -221,7 +221,7 @@ include_once('../desk-header.php');
            </div>
          </div>
          <div class="col-sm-6">
-          <div class="qoute-plant-text">
+          <div class="qoute-plant-text wow zoomIn">
             <p>MARCH 26, 2016</p>
             <h3>WHATEVER GOOD THINGS
               WE BUILD END UP GREEN
@@ -245,7 +245,7 @@ include_once('../desk-header.php');
          </div>
        </div>
        <div class="col-sm-6">
-         <div class="qoute-plant-text">
+         <div class="qoute-plant-text wow zoomIn">
           <p>MARCH 26, 2016</p>
           <h3>WHATEVER GOOD THINGS
             WE BUILD END UP GREEN
@@ -263,7 +263,7 @@ include_once('../desk-header.php');
   <div class="col-sm-6">
     <div  class="row">
       <div class="col-sm-6">
-        <div class="qoute-plant-text1">
+        <div class="qoute-plant-text1 wow zoomIn">
           <p>MARCH 26, 2016</p>
           <h3 >WHATEVER GOOD THINGS
             WE BUILD END UP GREEN
@@ -284,7 +284,7 @@ include_once('../desk-header.php');
  <div class="col-sm-6">
   <div class="row">
     <div class="col-sm-6">
-     <div class="qoute-plant-text1">
+     <div class="qoute-plant-text1 wow zoomIn">
       <p>MARCH 26, 2016</p>
       <h3 >WHATEVER GOOD THINGS
         WE BUILD END UP GREEN
@@ -319,7 +319,7 @@ include_once('../desk-header.php');
            </div>
          </div>
          <div class="col-sm-6">
-          <div class="qoute-plant-text">
+          <div class="qoute-plant-text wow zoomIn">
             <p>MARCH 26, 2016</p>
             <h3>WHATEVER GOOD THINGS
               WE BUILD END UP GREEN
@@ -343,7 +343,7 @@ include_once('../desk-header.php');
          </div>
        </div>
        <div class="col-sm-6">
-         <div class="qoute-plant-text">
+         <div class="qoute-plant-text wow zoomIn">
           <p>MARCH 26, 2016</p>
           <h3>WHATEVER GOOD THINGS
             WE BUILD END UP GREEN
@@ -361,7 +361,7 @@ include_once('../desk-header.php');
   <div class="col-sm-6">
     <div  class="row">
       <div class="col-sm-6">
-        <div class="qoute-plant-text1">
+        <div class="qoute-plant-text1 wow zoomIn">
           <p>MARCH 26, 2016</p>
           <h3 >WHATEVER GOOD THINGS
             WE BUILD END UP GREEN
@@ -382,7 +382,7 @@ include_once('../desk-header.php');
  <div class="col-sm-6">
   <div class="row">
     <div class="col-sm-6">
-     <div class="qoute-plant-text1">
+     <div class="qoute-plant-text1 wow zoomIn">
       <p>MARCH 26, 2016</p>
       <h3 >WHATEVER GOOD THINGS
         WE BUILD END UP GREEN
@@ -418,7 +418,7 @@ include_once('../desk-header.php');
            </div>
          </div>
          <div class="col-sm-6">
-          <div class="qoute-plant-text">
+          <div class="qoute-plant-text wow zoomIn">
             <p>MARCH 26, 2016</p>
             <h3>WHATEVER GOOD THINGS
               WE BUILD END UP GREEN

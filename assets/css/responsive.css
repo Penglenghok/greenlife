@@ -1,0 +1,120 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*responsive with screet devices*/
+/*Large desktop*/
+@media (min-width:768px) and (max-width:1300px) {
+
+	/*all*/
+	h1{
+		font-size: 25px;
+	}
+
+	h2{
+		font-size: 25px;
+	}
+
+.button-1 a{
+	width: 140px !important;
+}
+
+.button-2 a{
+	width: 140px !important;
+}
+
+
+
+/*home*/
+	#home .detail .text1 .subtitle h2{
+		line-height: 30px !important;
+	}
+
+
+	#home .detail .text2 .subtitle h2{
+			line-height: 30px !important;
+	}
+
+
+
+
+	#home .testimonial .col-sm-8 .box-icon{
+		padding-right: 30px;
+	}
+
+
+
+/*about*/
+
+#about .qoute-plant .col-sm-6 img{
+
+	height: 250px !important;
+
+}
+
+#about .qoute-plant .qoute-plant-text1 h3{
+	padding-left: 50px !important;
+}
+
+
+	/*footer*/
+
+
+	#footer .partner .box-img{
+  flex: 1;
+   width:100px;
+     height: 80px;
+     margin: 5px;
+}
+
+
+#footer .contact .contact-overview .subtitle h2 {
+
+    width: 80%;
+
+}
+
+
+}
+
+
+/* Portrait tablet to landscape and desktop */
+@media (min-width:768px) and (max-width:991px) {
+
+
+/*about*/
+
+#about .qoute-plant .qoute-plant-text1 h3{
+	padding-left: 0px !important;
+}
+
+#about .mission .text-left .subtitle h2{
+	width: 100% !important;
+}
+
+#about .mission .text-right .subtitle h2{
+	width: 100% !important;
+}
+
+#about .people .inner-people .text .subtitle h2{
+	width: 70% !important;
+}
+
+
+
+
+
+}
+/* landscape phone */
+@media (min-width:480px) and (max-width:767px) {
+
+}
+
+
+
+/* Portrait phone */
+@media (max-width:479px) {
+
+}
+
+
+

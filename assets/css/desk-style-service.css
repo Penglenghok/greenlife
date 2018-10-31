@@ -22,7 +22,7 @@
 
 #service .inner-overview img{
 	width: 100%;
-	height: 100%;
+	height: 500px;
 	object-fit: cover;
 }
 #service .inner-overview .text{
@@ -90,6 +90,6 @@
 
 #service .inner-summary img{
 	width: 100%;
-	height: 100%;
+	height: 500px;
 	object-fit: cover;
 }

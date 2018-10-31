@@ -16,6 +16,15 @@ $BATH_URL=BASE_URL;
   <script src="<?php echo $BATH_URL;?>assets/vendor/bootstrap.min.js"></script>
   <script type="text/javascript" src="<?php echo $BATH_URL;?>assets/vendor/zoom-parallax.js"></script>
   <script type="text/javascript" src="<?php echo $BATH_URL;?>assets/js/main.js"></script>
+  <link rel="stylesheet" type="text/css" href="<?php echo $BATH_URL;?>assets/css/responsive.css">
+  <link rel="stylesheet" type="text/css" href="<?php echo $BATH_URL;?>assets/vendor/animate.css">
+  <script type="text/javascript" src="<?php echo $BATH_URL;?>assets/vendor/wow.min.js"></script>
+
+  <script type="text/javascript">
+    
+    new WOW().init();
+  </script>
+
   <link rel="stylesheet" type="text/css" href="<?php echo $BATH_URL;?>assets/vendor/slick-slider/slick.css">
   <script type="text/javascript" src="<?php echo $BATH_URL;?>assets/vendor/slick-slider/slick.min.js"></script>
   <script type="text/javascript" src="<?php echo $BATH_URL;?>assets/vendor/scroll-fixed-header-menu2.js"></script>
@@ -109,7 +118,7 @@ $BATH_URL=BASE_URL;
                     <div class="bar3"></div>
                 </div>
                 <div class="box-logo">
-                  <a class="logo" href="#herroBanner" title=""><img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Logo-White-01.svg" alt=""></a>
+                  <a class="logo" href="index.<?php  ?>" title=""><img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Logo-White-01.svg" alt=""></a>
                 </div>
               </div>
               <div class="sub-nav-bottom">
