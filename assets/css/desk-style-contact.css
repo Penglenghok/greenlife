@@ -54,7 +54,7 @@ object-fit: cover;
 	padding-left: 15px;
 		border: solid 1px #e0e0e0;
 }
-#contact .inner-overview .form button{
+#contact .inner-overview .form .box-button{
 	margin-top: 30px;
 	display: flex;
 	justify-content: flex-end;

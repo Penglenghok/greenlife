@@ -64,7 +64,7 @@ include_once('../desk-header.php');
 									<p>Hiring</p><p>: 2</p>
 								</div>
 							</div>
-							<button class="button-1"><a href="">Download</a></button>
+							<a href=""><button class="button-1">Download</button></a>
 							<div class="social-media">
 							<img src="<?php echo $BATH_URL?>assets/img/Facebook-Link-Share.jpg">
 							</div>
@@ -133,7 +133,7 @@ include_once('../desk-header.php');
 									<p>Hiring</p><p>: 2</p>
 								</div>
 							</div>
-							<button class="button-1"><a href="">Download</a></button>
+							<a href=""><button class="button-1">Download</button></a>
 							<div class="social-media">
 							<img src="<?php echo $BATH_URL?>assets/img/Facebook-Link-Share.jpg">
 							</div>

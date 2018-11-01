@@ -12,16 +12,14 @@ $BATH_URL=BASE_URL;
   <link rel="stylesheet" href="<?php echo $BATH_URL;?>assets/vendor/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="<?php echo $BATH_URL;?>assets/css/desk-style.css">
   <link rel="stylesheet" type="text/css" href="<?php echo $BATH_URL;?>assets/vendor/zoom-parallax.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="<?php echo $BATH_URL;?>assets/js/jquery.js"></script>
   <script src="<?php echo $BATH_URL;?>assets/vendor/bootstrap.min.js"></script>
   <script type="text/javascript" src="<?php echo $BATH_URL;?>assets/vendor/zoom-parallax.js"></script>
   <script type="text/javascript" src="<?php echo $BATH_URL;?>assets/js/main.js"></script>
   <link rel="stylesheet" type="text/css" href="<?php echo $BATH_URL;?>assets/css/responsive.css">
   <link rel="stylesheet" type="text/css" href="<?php echo $BATH_URL;?>assets/vendor/animate.css">
   <script type="text/javascript" src="<?php echo $BATH_URL;?>assets/vendor/wow.min.js"></script>
-
   <script type="text/javascript">
-    
     new WOW().init();
   </script>
 
@@ -92,7 +90,6 @@ $BATH_URL=BASE_URL;
           <div class="container">
             <nav class="nav-top">
               <div style="float: right;">
-               
                 <ul class="media">
                   <li><a href="" title=""><img src="<?php echo $BATH_URL;?>assets/img/icon/fb.svg"></a></li>
                   <li><a href="" title=""><img src="<?php echo $BATH_URL;?>assets/img/icon/youtube.svg"></a></li>
@@ -104,7 +101,6 @@ $BATH_URL=BASE_URL;
                   <li><a href="">VISIT US</a></li>
                 </ul>
               </div>
-              
             </nav>
           </div>
         </div>
@@ -135,21 +131,6 @@ $BATH_URL=BASE_URL;
           </div>
         </div>
       </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <!-- banner -->
     <div class="container-fluid banner">
      <div id="demo" class="carousel slide" data-ride="carousel">
@@ -165,7 +146,7 @@ $BATH_URL=BASE_URL;
           <img data-imgzoom data-sarallax src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-01.jpg">
           <div class="banner-text">
             <h1>PROVIDE SUPERIOR LANDSCAPING SERVICE</h1>
-            <p><a href="">HOME</a></p>
+   
           </div>
         </div>
         <div class="carousel-item">
@@ -173,7 +154,7 @@ $BATH_URL=BASE_URL;
           <img data-imgzoom data-sarallax src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-04.jpg" alt="New York">
           <div class="banner-text">
             <h1>THE BEST CAMBODIA LANDSCAPING SERVICE</h1>
-            <p><a href="">HOME</a> | <a href="">ABOUT GREEN</a></p>
+
           </div>
         </div>
         <div class="carousel-item">
@@ -181,7 +162,7 @@ $BATH_URL=BASE_URL;
           <img data-imgzoom data-sarallax src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-06.jpg" alt="New York">
           <div class="banner-text">
             <h1>WE PROVIDE FLEXIBLE TAILORED SOLUTIONS</h1>
-            <p><a href="">HOME </a> | <a href="">OUR SERVICES</a></p>
+
           </div>
         </div>
         <div class="carousel-item">
@@ -189,7 +170,7 @@ $BATH_URL=BASE_URL;
           <img data-imgzoom data-sarallax src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-05.jpg" alt="New York">
           <div class="banner-text">
             <h1>IRRIGATION & WATER MANAGEMENT & MAINTENANCE</h1>
-            <p><a href="">HOME</a> | <a href="">PORTFOLIOS</a></p>
+
           </div>
         </div>
       </div>

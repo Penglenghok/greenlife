@@ -31,6 +31,10 @@ p{
 .container-fluid{
   padding: 0px;
 }
+a:hover{
+  text-decoration: none;
+}
+
 
 
 .black-layer{
@@ -50,7 +54,7 @@ p{
   border: none;
 }
 
-.button-1 a{
+.button-1{
   display: flex;
   text-decoration: none;
   height: 40px;
@@ -60,11 +64,22 @@ p{
   border: 1px solid #00A651;
   color: #00A651;
   transition: 0.3s;
+
 }
-.button-1 a:hover{
+
+.button-1:hover{
   color: white;
   background-color: #00A651;
 }
+
+
+
+
+
+
+
+
+
 
 /*button secondary*/
 
@@ -73,7 +88,7 @@ p{
   border: none;
 }
 
-.button-2 a{
+.button-2 {
   display: flex;
   text-decoration: none;
   height: 40px;
@@ -84,7 +99,7 @@ p{
   color: white;
   transition: 0.3s;
 }
-.button-2 a:hover{
+.button-2:hover{
   color:#00A651;
   background-color:white;
 }
@@ -156,7 +171,7 @@ p{
         color: black;
       }
       .media{padding: 0;margin: 0;list-style: none;float: right;padding-top: 12px;}
-      .media li{float: left;margin-left: 10px;}
+      .media li{float: left;margin-left: 10px;margin-right: 10px}
       .media li a{display:block;height: 28px;width: 28px;border-radius: 50%;overflow: hidden;}
       .media li a img{height: 100%;width: 100%;}
       /*end menu top*/
@@ -171,7 +186,7 @@ p{
         /*menu*/
       #header .nav-bottom .menu{float: left;padding: 0;margin: 0;list-style: none;}
       #header .nav-bottom .menu li{float: left;}
-      #header .nav-bottom .menu li a{display: block;padding: 15px 20px;font-size: 14px;color: white;text-decoration: none;transition: 0.3s;}
+      #header .nav-bottom .menu li a{display: block;padding: 15px 10px;font-size: 14px;color: white;text-decoration: none;transition: 0.3s;}
       #header .nav-bottom .menu li a:hover{color: #32CF9D;}
       #header nav a.active{color: #32CF9D;}
       #header .nav-bottom .logo,
@@ -402,6 +417,8 @@ height: 100%;
 bottom: -50px;
 color: green;
 display: flex;
+-webkit-flex: 1; /* Safari 6.1+ */
+-ms-flex: 1; /* IE 10 */ 
 flex-direction: row;
 list-style: none;
 justify-content: center;

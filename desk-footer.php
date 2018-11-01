@@ -1,5 +1,6 @@
 <div id="wrapper">
   <div id="footer">
+    
     <!-- contact us -->
     <div class="container-fluid">
       <div class="row" style="height: 585px;">
@@ -30,7 +31,6 @@
                   <p>+855 69 866 803</p>
                 </div>
               </div>
-
               <div class="contact-info">
                 <div class="box-icon">
                   <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Email-01.svg">
@@ -46,17 +46,13 @@
               <div class="contact-overview">
                 <div class="title"><img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg"><h2>CONTACT</h2></div>
                 <div class="subtitle"><h2>MEET OUR EXPERTISE TO DISCUSS ABOUT YOUR LANDSCAPING PLAN.</h2></div>
-                <button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-contact.php">CONTACT GREEN</a></button>
+                <a href="<?php echo $BATH_URL;?>desktop/content-contact.php"><button class="button-1">CONTACT GREEN</button></a>
               </div>
             </div>
           </div>
         </div>
       </div>
     </div>
-
-
-
-
 
     <div class="container">
       <div class="partner">
@@ -68,7 +64,6 @@
         <div class="box-img"><img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-07.jpg"></div>
         <div class="box-img"><img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-08.jpg"></div>
         <div class="box-img"><img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-01.jpg"></div>
-
         <div class="box-img"><img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-01.jpg"></div>
         <div class="box-img"><img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-02.jpg"></div>
         <div class="box-img"><img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-03.jpg"></div>
@@ -77,7 +72,6 @@
         <div class="box-img"><img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-07.jpg"></div>
         <div class="box-img"><img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-08.jpg"></div>
         <div class="box-img"><img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-01.jpg"></div>
-
         <div class="box-img"><img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-01.jpg"></div>
         <div class="box-img"><img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-02.jpg"></div>
         <div class="box-img"><img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-03.jpg"></div>
@@ -86,12 +80,11 @@
         <div class="box-img"><img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-07.jpg"></div>
         <div class="box-img"><img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-08.jpg"></div>
         <div class="box-img"><img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-01.jpg"></div>
-
       </div>
     </div>
 
-    <!-- footer bottom  -->
 
+    <!-- footer bottom  -->
     <div class="container footer-bottom">
       <p>© 2018 Green Life Landscaping Service. - <a href="">Site Map</a> - <a href="">Term and Policy</a></p>
       <p>Developed by: <a href="">TomnerbTECH</a></p>

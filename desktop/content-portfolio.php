@@ -20,7 +20,7 @@ include_once('../desk-header.php');
 							<h3><span>GLORIA JEAN COFFEE</span></h3>
 							<h3>TOUK KORK BRAND</h3>
 							<p>Potter Plant Supply & Maintenance</p>
-							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
 
@@ -34,7 +34,7 @@ include_once('../desk-header.php');
 							<h3><span>GLORIA JEAN COFFEE</span></h3>
 							<h3>TOUK KORK BRAND</h3>
 							<p>Potter Plant Supply & Maintenance</p>
-							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
 
@@ -48,7 +48,7 @@ include_once('../desk-header.php');
 							<h3><span>GLORIA JEAN COFFEE</span></h3>
 							<h3>TOUK KORK BRAND</h3>
 							<p>Potter Plant Supply & Maintenance</p>
-							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
 
@@ -62,7 +62,7 @@ include_once('../desk-header.php');
 							<h3><span>GLORIA JEAN COFFEE</span></h3>
 							<h3>TOUK KORK BRAND</h3>
 							<p>Potter Plant Supply & Maintenance</p>
-							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
 				</div>
@@ -78,7 +78,7 @@ include_once('../desk-header.php');
 							<h3><span>GLORIA JEAN COFFEE</span></h3>
 							<h3>TOUK KORK BRAND</h3>
 							<p>Potter Plant Supply & Maintenance</p>
-							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
 
@@ -92,7 +92,7 @@ include_once('../desk-header.php');
 							<h3><span>GLORIA JEAN COFFEE</span></h3>
 							<h3>TOUK KORK BRAND</h3>
 							<p>Potter Plant Supply & Maintenance</p>
-							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
 
@@ -106,7 +106,7 @@ include_once('../desk-header.php');
 							<h3><span>GLORIA JEAN COFFEE</span></h3>
 							<h3>TOUK KORK BRAND</h3>
 							<p>Potter Plant Supply & Maintenance</p>
-							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
 					<div class="col-lg-3 col-sm-6">
@@ -119,7 +119,7 @@ include_once('../desk-header.php');
 							<h3><span>GLORIA JEAN COFFEE</span></h3>
 							<h3>TOUK KORK BRAND</h3>
 							<p>Potter Plant Supply & Maintenance</p>
-							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
 				</div>
@@ -138,7 +138,7 @@ include_once('../desk-header.php');
 							<h3><span>GLORIA JEAN COFFEE</span></h3>
 							<h3>TOUK KORK BRAND</h3>
 							<p>Potter Plant Supply & Maintenance</p>
-							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
 
@@ -152,7 +152,7 @@ include_once('../desk-header.php');
 							<h3><span>GLORIA JEAN COFFEE</span></h3>
 							<h3>TOUK KORK BRAND</h3>
 							<p>Potter Plant Supply & Maintenance</p>
-							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
 
@@ -166,7 +166,7 @@ include_once('../desk-header.php');
 							<h3><span>GLORIA JEAN COFFEE</span></h3>
 							<h3>TOUK KORK BRAND</h3>
 							<p>Potter Plant Supply & Maintenance</p>
-							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
 
@@ -180,7 +180,7 @@ include_once('../desk-header.php');
 							<h3><span>GLORIA JEAN COFFEE</span></h3>
 							<h3>TOUK KORK BRAND</h3>
 							<p>Potter Plant Supply & Maintenance</p>
-							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
 				</div>
@@ -196,7 +196,7 @@ include_once('../desk-header.php');
 							<h3><span>GLORIA JEAN COFFEE</span></h3>
 							<h3>TOUK KORK BRAND</h3>
 							<p>Potter Plant Supply & Maintenance</p>
-							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
 
@@ -210,7 +210,7 @@ include_once('../desk-header.php');
 							<h3><span>GLORIA JEAN COFFEE</span></h3>
 							<h3>TOUK KORK BRAND</h3>
 							<p>Potter Plant Supply & Maintenance</p>
-							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
 
@@ -224,7 +224,7 @@ include_once('../desk-header.php');
 							<h3><span>GLORIA JEAN COFFEE</span></h3>
 							<h3>TOUK KORK BRAND</h3>
 							<p>Potter Plant Supply & Maintenance</p>
-							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
 					<div class="col-lg-3 col-sm-6">
@@ -237,7 +237,7 @@ include_once('../desk-header.php');
 							<h3><span>GLORIA JEAN COFFEE</span></h3>
 							<h3>TOUK KORK BRAND</h3>
 							<p>Potter Plant Supply & Maintenance</p>
-							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
 				</div>
@@ -255,7 +255,7 @@ include_once('../desk-header.php');
 							<h3><span>GLORIA JEAN COFFEE</span></h3>
 							<h3>TOUK KORK BRAND</h3>
 							<p>Potter Plant Supply & Maintenance</p>
-							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
 
@@ -269,7 +269,7 @@ include_once('../desk-header.php');
 							<h3><span>GLORIA JEAN COFFEE</span></h3>
 							<h3>TOUK KORK BRAND</h3>
 							<p>Potter Plant Supply & Maintenance</p>
-							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
 
@@ -283,7 +283,7 @@ include_once('../desk-header.php');
 							<h3><span>GLORIA JEAN COFFEE</span></h3>
 							<h3>TOUK KORK BRAND</h3>
 							<p>Potter Plant Supply & Maintenance</p>
-							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
 
@@ -297,7 +297,7 @@ include_once('../desk-header.php');
 							<h3><span>GLORIA JEAN COFFEE</span></h3>
 							<h3>TOUK KORK BRAND</h3>
 							<p>Potter Plant Supply & Maintenance</p>
-							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
 				</div>
@@ -313,7 +313,7 @@ include_once('../desk-header.php');
 							<h3><span>GLORIA JEAN COFFEE</span></h3>
 							<h3>TOUK KORK BRAND</h3>
 							<p>Potter Plant Supply & Maintenance</p>
-							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
 
@@ -327,7 +327,7 @@ include_once('../desk-header.php');
 							<h3><span>GLORIA JEAN COFFEE</span></h3>
 							<h3>TOUK KORK BRAND</h3>
 							<p>Potter Plant Supply & Maintenance</p>
-							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
 
@@ -341,7 +341,7 @@ include_once('../desk-header.php');
 							<h3><span>GLORIA JEAN COFFEE</span></h3>
 							<h3>TOUK KORK BRAND</h3>
 							<p>Potter Plant Supply & Maintenance</p>
-							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
 					<div class="col-lg-3 col-sm-6">
@@ -354,7 +354,7 @@ include_once('../desk-header.php');
 							<h3><span>GLORIA JEAN COFFEE</span></h3>
 							<h3>TOUK KORK BRAND</h3>
 							<p>Potter Plant Supply & Maintenance</p>
-							<button class="button-1"><a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">VIEW MORE</a></button>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
 				</div>
