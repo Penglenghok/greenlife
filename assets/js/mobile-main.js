@@ -115,17 +115,20 @@ $(document).ready(function() {
     fullHeightScreen();
 
 
-    // // slick slider
-    // $('#content .banner-home').slick({
-    //     dots: true,
-    //     dotsClass: 'dots-ecam',
-    //     autoplay: true,
-    //     autoplaySpeed: 6000,
-    //     nextArrow: '<div class="arrow-right"><i class="fa fa-angle-right"></i></div>',
-    //     prevArrow: '<div class="arrow-left"><i class="fa fa-angle-left"></i></div>',
-    // });
-    // $('.dots-ecam li button,.dots-ecam2 li button').text('');
-    // $('[title="Hosted on free web hosting 000webhost.com. Host your own website for FREE."]').remove();
+    $(".banner").slick({
+          infinite: true,
+  slidesToShow:1,
+  slidesToScroll:1,
+dots:true,
+nextArrow:'',
+prevArrow:'',
+  autoplay: true,
+  autoplaySpeed: 3000,
+    });
+
+
+
+    $('[title="Hosted on free web hosting 000webhost.com. Host your own website for FREE."]').remove();
 
    
 });

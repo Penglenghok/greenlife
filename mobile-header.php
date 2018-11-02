@@ -11,12 +11,13 @@ $BATH_URL=BASE_URL;
 	<link rel="stylesheet" type="text/css" href="<?php echo $BATH_URL;?>assets/vendor/animate.css">
 	<link rel="stylesheet" type="text/css" href="<?php echo $BATH_URL;?>assets/css/mobile-style.css">
 	<link rel="stylesheet" type="text/css" href="<?php echo $BATH_URL;?>assets/css/responsive.css">
-		  <script src="<?php echo $BATH_URL;?>assets/js/jquery.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script type="text/javascript" src="<?php echo $BATH_URL;?>assets/js/mobile-main.js"></script>
 	<script type="text/javascript" src="<?php echo $BATH_URL;?>assets/vendor/wow.min.js"></script>
+	<script type="text/javascript" src="<?php echo $BATH_URL;?>assets/vendor/slick-slider/slick.min.js"></script>
 	<script>
-	    new WOW().init();
+		new WOW().init();
 	</script>
-	  <script type="text/javascript" src="<?php echo $BATH_URL;?>assets/js/mobile-main.js"></script>
 </head>
 <body>
 	<div id="wrap">
@@ -27,8 +28,8 @@ $BATH_URL=BASE_URL;
 					<div class="box-logo-hamberger">
 						<div class="hamburger-menu" id="hamburger-menu">
 							<div class="bar1"></div>
-		  					<div class="bar2"></div>
-		  					<div class="bar3"></div>
+							<div class="bar2"></div>
+							<div class="bar3"></div>
 						</div>
 						<div class="logo">
 							<img src="<?php echo $BATH_URL;?>assets/img/icon/tree-white.svg" alt="Greenlife">
@@ -48,7 +49,6 @@ $BATH_URL=BASE_URL;
 							<img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Logo-White-01.svg" alt="">
 						</div>
 					</div>
-				
 					<li><a href="#section-1" title="">home</a></li>
 					<li><a href="#section-2" title="">about</a></li>
 					<li><a href="#section-3" title="">condo</a></li>
@@ -56,8 +56,15 @@ $BATH_URL=BASE_URL;
 					<li><a href="#section-5" title="">facility</a></li>
 					<li><a href="#section-6" title="">brochure</a></li>
 					<li><a href="#section-7" title="">contact</a></li>
-		
 				</ul>
 			</nav>
 		</div>
 	</div><!-- end-header -->
+
+<!-- banner -->
+
+
+
+
+
+

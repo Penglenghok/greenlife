@@ -55,6 +55,7 @@
     </div>
 
     <div class="container">
+
       <div class="partner">
         <div class="box-img"><img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-01.jpg"></div>
         <div class="box-img"><img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-02.jpg"></div>
@@ -81,6 +82,7 @@
         <div class="box-img"><img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-08.jpg"></div>
         <div class="box-img"><img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-01.jpg"></div>
       </div>
+
     </div>
 
 

@@ -131,6 +131,9 @@ $BATH_URL=BASE_URL;
           </div>
         </div>
       </div>
+
+
+      
     <!-- banner -->
     <div class="container-fluid banner">
      <div id="demo" class="carousel slide" data-ride="carousel">
@@ -146,7 +149,6 @@ $BATH_URL=BASE_URL;
           <img data-imgzoom data-sarallax src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-01.jpg">
           <div class="banner-text">
             <h1>PROVIDE SUPERIOR LANDSCAPING SERVICE</h1>
-   
           </div>
         </div>
         <div class="carousel-item">
@@ -154,7 +156,6 @@ $BATH_URL=BASE_URL;
           <img data-imgzoom data-sarallax src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-04.jpg" alt="New York">
           <div class="banner-text">
             <h1>THE BEST CAMBODIA LANDSCAPING SERVICE</h1>
-
           </div>
         </div>
         <div class="carousel-item">
@@ -162,7 +163,6 @@ $BATH_URL=BASE_URL;
           <img data-imgzoom data-sarallax src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-06.jpg" alt="New York">
           <div class="banner-text">
             <h1>WE PROVIDE FLEXIBLE TAILORED SOLUTIONS</h1>
-
           </div>
         </div>
         <div class="carousel-item">

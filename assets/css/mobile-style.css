@@ -11,6 +11,14 @@ body{
 	margin: 0px;
 }
 
+h2{
+	font-size: 25px;
+}
+
+p{
+	font-size: 14px;
+}
+
 /****************************************************************************
 ////////////////////////////////////////////////////////////////////////////////
 * 	Blog Header
@@ -59,10 +67,12 @@ body{
 #header nav .sidebar-head{background-color:#00A651; /*background-color: white;*//*padding: 15px;*/height: 150px;width: 89%;}
 #header nav .sidebar-logo{height: 60px;}
 #header nav .sidebar-logo img{height: 100%;}
-#header nav .menu-side-bar li{float: left;width: 100%;border-bottom: 1px solid #e0e0e0;}
+#header nav .menu-side-bar li{float: left;width: 89%;border-bottom: 1px solid #e0e0e0;}
 #header nav .menu-side-bar li a{display: block;font-size: 16px;padding: 15px;padding-left: 20px;padding-right: 20px;text-decoration: none;text-transform: uppercase;color:black;}
 #header nav .menu-side-bar li a.active{color: #32CF9D;}
 #header nav .menu-side-bar li a:hover {color: #32CF9D;}
+
+
 
 /****************************************************************************
 ////////////////////////////////////////////////////////////////////////////////
@@ -76,6 +86,52 @@ body{
 * 	Blog Footer
 ////////////////////////////////////////////////////////////////////////////////
 *****************************************************************************/
+.container-footer{
+	background-color: white;
+padding-top: 20px;
+}
 
 
+.container-footer h2{
+	text-align: center;
+	color: #00A651;
+}
+
+.container-footer .address{
+		margin-top: 30px;
+	padding: 0 30px;
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+}
+
+.container-footer .address img{
+	width: 35px;
+	height: 35px;
+}
+.container-footer .address .text{
+
+	display: flex;
+	flex-direction: column;
+	margin-left: 30px;
+}
+.container-footer .address .text p{
+	margin: 0px;
+	line-height: 20px;
+}
+
+.footer-bottom{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-top: 20px;
+
+}
+
+.footer-bottom p{
+		font-size: 12px !important;
+		margin: 0px;
+		padding-top: 10px;
+}
 /*quick-link*/
