@@ -51,19 +51,13 @@ $BATH_URL=BASE_URL;
 					<li><a href="career.php" title="">CAREER</a></li>
 				</ul>
 			</nav>
-
-
-
-
 		</div>
 	</div><!-- end-header -->
-
 	<div class="container-cus2">
 		<div class="banner">
 			<div  class="subbanner">
 				<div class="bg-black"></div>
 				<div data-fullscreen>
-
 				<img src="<?php echo $BATH_URL?>assets/img/Green-Life-Landscaping-service-Cambodia-01.jpg" >
 			</div>
 			<div class="text"><h2>PROVIDE SUPERIOR LANDSCAPING SERVICE</h2></div>
@@ -86,9 +80,7 @@ $BATH_URL=BASE_URL;
 		</div>
 		</div>
 	</div>
-	
 	<script type="text/javascript">
-		
 	</script>
 
 
