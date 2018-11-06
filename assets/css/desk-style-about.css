@@ -164,11 +164,10 @@ margin-top: 30px;
 width: 60%;
 }
 
-
-
 /*qoute-plant*/
 
 /*qoute plant text align left*/
+
 #about .qoute-plant .black-layer{
   opacity: 0;
     transition: 0.5s;
@@ -189,12 +188,13 @@ width: 60%;
     transition: 0.5s;
 }
 
+
+
 /*qoute plant text align right*/
-#about .qoute-plant .qoute-plant-text1{
+/*#about .qoute-plant .qoute-plant-text1{
     margin: 50px 30px;
   text-align: right;
 }
-
 
 #about .qoute-plant .qoute-plant-text1 p{
   color: #808285 !important;
@@ -206,7 +206,7 @@ width: 60%;
   transition: 0.5s;
   margin-right: 0px;
 padding-left: 100px;
-}
+}*/
 
 #about .row{
 	margin:0;
@@ -241,6 +241,26 @@ padding-left: 100px;
   height: 43px !important;
   margin: 30px 0px;
 }
+
+
+#about .qoute-plant>.container>.row:nth-child(even)>.col-sm-6>.row{
+	flex-direction: row-reverse;
+}
+
+#about .qoute-plant>.container>.row:nth-child(even)>.col-sm-6>.row>.col-sm-6 .qoute-plant-text{
+text-align: right;
+}
+
+#about .qoute-plant>.container>.row:nth-child(even)>.col-sm-6>.row>.col-sm-6 .qoute-plant-text h3{
+width: 100%;
+padding-left: 40%;
+}
+
+#about .qoute-plant>.container>.row:nth-child(even)>.col-sm-6>.row>.col-sm-6 .qoute-plant-text .box-underline-left{
+	justify-content: flex-end;
+}
+
+
 /*hover qoute plant */
 #about .qoute-plant .col-sm-6:hover .qoute-plant-text h3{
   color: green;

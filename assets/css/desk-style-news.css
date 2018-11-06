@@ -38,21 +38,25 @@ margin: 0px;
 }
 
 /*qoute plant text align right*/
-#news .qoute-plant .qoute-plant-text1{
-    margin: 50px 30px;
-  text-align: right;
+
+
+#news .qoute-plant>.container>.row:nth-child(even)>.col-sm-6>.row{
+  flex-direction: row-reverse;
 }
 
-#news .qoute-plant .qoute-plant-text1 p{
-  color: #808285;
-  margin-bottom: 30px;
+#news .qoute-plant>.container>.row:nth-child(even)>.col-sm-6>.row>.col-sm-6 .qoute-plant-text{
+text-align: right;
 }
 
-#news .qoute-plant .qoute-plant-text1 h3{
-  width: 100%;
-  margin-bottom: 30px;
-  transition: 0.5s;
+#news .qoute-plant>.container>.row:nth-child(even)>.col-sm-6>.row>.col-sm-6 .qoute-plant-text h3{
+width: 100%;
 }
+
+#news .qoute-plant>.container>.row:nth-child(even)>.col-sm-6>.row>.col-sm-6 .qoute-plant-text .box-underline-left{
+  justify-content: flex-end;
+}
+
+
 
 #news .qoute-plant .col-sm-6 .text {
   position: absolute;

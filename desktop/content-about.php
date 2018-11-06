@@ -110,7 +110,6 @@ include_once('../desk-header.php');
 <div class="container-fluid qoute-plant" >
   <div class="container">
 
-
     <div class="row">
       <div class="col-sm-6">
         <div  class="row">
@@ -125,8 +124,7 @@ include_once('../desk-header.php');
          <div class="col-sm-6">
           <div class="qoute-plant-text">
             <p>MR. OUK CHARBORA</p>
-            <h3>MANAGING
-DIRECTOR</h3>
+            <h3>MANAGING DIRECTOR</h3>
             <div class="box-underline-left">
               <span class="underline"></span>
             </div>
@@ -159,53 +157,7 @@ MANAGER</h3>
   </div>
 </div>
 
-<div class="row">
-  <div class="col-sm-6">
-    <div  class="row">
-      <div class="col-sm-6">
-        <div class="qoute-plant-text1">
-          <p>MR. GREEN LIFE</p>
-          <h3>PLANT
-MANAGER.</h3>
-          <div class="box-underline-right"><div class="underline"></div></div>
-        </div>
-      </div>
-      <div class="col-sm-6 wow zoomIn" data-wow-duration="1.6">
-        <div class="black-layer"></div>
-        <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-04.jpg">
-        <div class="text">
-         <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-             <a href=""><button class="button-1">VIEW MORE</button></a>
-       </div>
-     </div>
-   </div>
- </div>
- <div class="col-sm-6">
-  <div class="row">
-    <div class="col-sm-6">
-     <div class="qoute-plant-text1">
-      <p>MS. ORN CHELLY</p>
-      <h3>ADMIN &
-ACCOUNTING</h3>
-      <div class="box-underline-right">
-        <div class="underline"></div>
-      </div>
-
-    </div>
-  </div>
-  <div class="col-sm-6 wow zoomIn" data-wow-duration="1.9">
-    <div class="black-layer"></div>
-    <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-news-06.jpg">
-    <div class="text">
-     <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-             <a href=""><button class="button-1">VIEW MORE</button></a>
-   </div>
- </div>
-</div>
-</div>
-</div>
-
-    <div class="row">
+   <div class="row">
       <div class="col-sm-6">
         <div  class="row">
           <div class="col-sm-6 wow zoomIn">
@@ -219,8 +171,7 @@ ACCOUNTING</h3>
          <div class="col-sm-6">
           <div class="qoute-plant-text">
             <p>MR. OUK CHARBORA</p>
-            <h3>MANAGING
-DIRECTOR</h3>
+            <h3>MANAGING DIRECTOR</h3>
             <div class="box-underline-left">
               <span class="underline"></span>
             </div>
@@ -228,6 +179,8 @@ DIRECTOR</h3>
         </div>
       </div>
     </div>
+
+
 
     <div class="col-sm-6">
       <div class="row">
@@ -253,51 +206,107 @@ MANAGER</h3>
   </div>
 </div>
 
-<div class="row">
-  <div class="col-sm-6">
-    <div  class="row">
+
+   <div class="row">
       <div class="col-sm-6">
-        <div class="qoute-plant-text1">
-          <p>MR. GREEN LIFE</p>
-          <h3>PLANT
-MANAGER.</h3>
-          <div class="box-underline-right"><div class="underline"></div></div>
+        <div  class="row">
+          <div class="col-sm-6 wow zoomIn">
+            <div class="black-layer"></div>
+            <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-03.jpg">
+            <div class="text">
+             <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
+             <a href=""><button class="button-1">VIEW MORE</button></a>
+           </div>
+         </div>
+         <div class="col-sm-6">
+          <div class="qoute-plant-text">
+            <p>MR. OUK CHARBORA</p>
+            <h3>MANAGING DIRECTOR</h3>
+            <div class="box-underline-left">
+              <span class="underline"></span>
+            </div>
+          </div>
         </div>
       </div>
-      <div class="col-sm-6 wow zoomIn" data-wow-duration="1.6">
-        <div class="black-layer"></div>
-        <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-04.jpg">
-        <div class="text">
-         <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-             <a href=""><button class="button-1">VIEW MORE</button></a>
-       </div>
-     </div>
-   </div>
- </div>
- <div class="col-sm-6">
-  <div class="row">
-    <div class="col-sm-6">
-     <div class="qoute-plant-text1">
-      <p>MS. ORN CHELLY</p>
-      <h3>ADMIN &
-ACCOUNTING</h3>
-      <div class="box-underline-right">
-        <div class="underline"></div>
-      </div>
+    </div>
 
+
+
+    <div class="col-sm-6">
+      <div class="row">
+        <div class="col-sm-6 wow zoomIn" data-wow-duration="1.3">
+          <div class="black-layer"></div>
+          <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-02.jpg">
+          <div class="text">
+           <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
+             <a href=""><button class="button-1">VIEW MORE</button></a>
+         </div>
+       </div>
+       <div class="col-sm-6">
+         <div class="qoute-plant-text">
+          <p>MR. PHANITH</p>
+          <h3>GARGEN
+MANAGER</h3>
+          <div  class="box-underline-left">
+            <div class="underline"></div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
-  <div class="col-sm-6 wow zoomIn" data-wow-duration="1.9">
-    <div class="black-layer"></div>
-    <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-news-06.jpg">
-    <div class="text">
-     <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
+</div>
+
+
+   <div class="row">
+      <div class="col-sm-6">
+        <div  class="row">
+          <div class="col-sm-6 wow zoomIn">
+            <div class="black-layer"></div>
+            <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-03.jpg">
+            <div class="text">
+             <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
              <a href=""><button class="button-1">VIEW MORE</button></a>
-   </div>
- </div>
+           </div>
+         </div>
+         <div class="col-sm-6">
+          <div class="qoute-plant-text">
+            <p>MR. OUK CHARBORA</p>
+            <h3>MANAGING DIRECTOR</h3>
+            <div class="box-underline-left">
+              <span class="underline"></span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+    <div class="col-sm-6">
+      <div class="row">
+        <div class="col-sm-6 wow zoomIn" data-wow-duration="1.3">
+          <div class="black-layer"></div>
+          <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-02.jpg">
+          <div class="text">
+           <img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
+             <a href=""><button class="button-1">VIEW MORE</button></a>
+         </div>
+       </div>
+       <div class="col-sm-6">
+         <div class="qoute-plant-text">
+          <p>MR. PHANITH</p>
+          <h3>GARGEN
+MANAGER</h3>
+          <div  class="box-underline-left">
+            <div class="underline"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
-</div>
-</div>
+
+
 </div>
 </div>
 

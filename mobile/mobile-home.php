@@ -1,12 +1,12 @@
 <link rel="stylesheet" type="text/css" href="<?php echo $BATH_URL?>assets/css/mobile-style-home.css">
 <div id="wrapper">
 	<div id="mobile">
-		<div id="home" class="container-footer">
+		<div id="home" class="container-home">
 			<div class="overview">
 				<div class="box-img">
 					<img src="<?php echo $BATH_URL?>assets/img/Green-Life-Landscaping-service-Cambodia-Process-04.jpg" alt="">
 				</div>
-				<div class="text">
+				<div class="text wow zoomIn">
 					<div class="title"><img src="<?php echo $BATH_URL?>assets/img/icon/Khmer-AdsZone-Tree-01.svg" alt="">
 						<h3>OVERVIEW</h3></div>
 						<div class="subtitle"><h3>CHOOSE US TO HELP YOU MAKING YOUR LIFE GREEN</h3></div>
@@ -104,13 +104,13 @@
 						</div>
 					</div>
 
+					
 					<!-- news and tip -->
-
 					<div class="overview">
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL?>assets/img/Green-Life-Landscaping-service-Cambodia-news-01.jpg" alt="">
 						</div>
-						<div class="text">
+						<div class="text wow zoomIn">
 							<div class="title"><img src="<?php echo $BATH_URL?>assets/img/icon/Khmer-AdsZone-Tree-01.svg" alt="">
 								<h3>NEWS & TIPS</h3></div>
 								<div class="subtitle"><h3>THERE’S NOTHING WRONG WITH READING A BOOK YOU LOVE OVER AND OVER.</div>
@@ -119,7 +119,7 @@
 
 							<!-- qoute plant -->
 							<div class="qoute-plant">
-								<div class="item">
+								<div class="item wow zoomIn">
 									<div class="box-img"><img src="<?php echo $BATH_URL?>assets/img/Green-Life-Landscaping-service-Cambodia-news-02.jpg"></div>
 									<div class="text">
 										<p>MARCH 26, 2016</p>
@@ -129,8 +129,7 @@
 										</div>
 									</div>
 								</div>
-
-								<div class="item">
+								<div class="item wow zoomIn">
 									<div class="box-img"><img src="<?php echo $BATH_URL?>assets/img/Green-Life-Landscaping-service-Cambodia-news-02.jpg"></div>
 									<div class="text">
 										<p>MARCH 26, 2016</p>
@@ -140,9 +139,7 @@
 										</div>
 									</div>
 								</div>
-
-
-								<div class="item">
+								<div class="item wow zoomIn">
 									<div class="box-img"><img src="<?php echo $BATH_URL?>assets/img/Green-Life-Landscaping-service-Cambodia-news-02.jpg"></div>
 									<div class="text">
 										<p>MARCH 26, 2016</p>
@@ -152,8 +149,7 @@
 										</div>
 									</div>
 								</div>
-
-								<div class="item">
+								<div class="item wow zoomIn">
 									<div class="box-img"><img src="<?php echo $BATH_URL?>assets/img/Green-Life-Landscaping-service-Cambodia-news-02.jpg"></div>
 									<div class="text">
 										<p>MARCH 26, 2016</p>
@@ -167,61 +163,31 @@
 
 
 							<!-- testimonial -->
-												<h3 style="font-size:bold;color: #00A651;text-align: center;margin: 0px;margin-top: 20px !important;">OUR PARTNER</h3>
+							
+
+
 
 							<div class="testimonial">
-
-								<div class="item">
-									<div class="title">
-										<div class="box-logo"><img src="<?php echo $BATH_URL?>assets/img/icon/Khmer-AdsZone-_-01.svg">
-										</div>
-										<div class="text">
-											<p>
-											Ms. Elna</p>
-											<p>T-SHOP, Diputy Director
-
-											</p>
-										</div>
-									</div>
-									<div class="desc"><img src="<?php echo $BATH_URL?>assets/img/Green-Life-Landscaping-service-Cambodia-testimonail-02.jpg">
-										<div class="text"><p>The best customer service is if the customer doesn’t need to call you, doesn’t need to talk to you. It just works.</p></div>
-									</div>
-								</div>
-
-								<div class="item">
-									<div class="title">
-										<div class="box-logo"><img src="<?php echo $BATH_URL?>assets/img/icon/Khmer-AdsZone-_-01.svg">
-										</div>
-										<div class="text">
-											<p>
-											Ms. Elna</p>
-											<p>T-SHOP, Diputy Director
-
-											</p>
-										</div>
-									</div>
-									<div class="desc"><img src="<?php echo $BATH_URL?>assets/img/Green-Life-Landscaping-service-Cambodia-testimonail-02.jpg">
-										<div class="text"><p>The best customer service is if the customer doesn’t need to call you, doesn’t need to talk to you. It just works.</p></div>
-									</div>
-								</div>
-
-								<div class="item">
-									<div class="title">
-										<div class="box-logo"><img src="<?php echo $BATH_URL?>assets/img/icon/Khmer-AdsZone-_-01.svg">
-										</div>
-										<div class="text">
-											<p>
-											Ms. Elna</p>
-											<p>T-SHOP, Diputy Director
-
-											</p>
-										</div>
-									</div>
-									<div class="desc"><img src="<?php echo $BATH_URL?>assets/img/Green-Life-Landscaping-service-Cambodia-testimonail-02.jpg">
-										<div class="text"><p>The best customer service is if the customer doesn’t need to call you, doesn’t need to talk to you. It just works.</p></div>
-									</div>
-								</div>
+							<div class="item ">
+								<div class="title">Ms. Elna
+T-SHOP, Diputy Director</div>
+								<div class="desc">The best customer service is if the customer doesn’t need to call you, doesn’t need to talk to you. It just works.</div>
+								<div class="box-img"><img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-testimonail-02.jpg"></div>
 							</div>
+
+							<div class="item">
+								<div class="title">Ms. Elna
+T-SHOP, Diputy Director</div>
+								<div class="desc">The best customer service is if the customer doesn’t need to call you, doesn’t need to talk to you. It just works.
+								The best customer service is if the customer doesn’t need to call you, doesn’t need to talk to you. It just works.</div>
+								<div class="box-img"><img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-testimonail-01.jpg"></div>
+							</div>
+							</div>
+
+
+
+
+
 
 						</div>
 					</div>

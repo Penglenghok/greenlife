@@ -1,8 +1,8 @@
 <div id="wrap"><!-- footer -->
 		<div id="footer">
 			<div class="container-footer">
-					<h3 style="font-size:bold;color: #00A651;text-align: center;margin: 0px;">OUR PARTNER</h3>
-				<div class="partner" style="padding-top: 10px;padding-bottom: 10px;">
+				<h3>OUR PARTNER</h3>
+				<div class="partner">
 					<div class="item">
 						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-01.jpg">
 					</div>	
@@ -86,13 +86,18 @@
 
 				<h2>Contact</h2>
 				<div class="address">
-					<img src="<?php echo $BATH_URL ?>assets/img/icon/Khmer-AdsZone-Address-01.svg"><div class="text"><p># 55,St. 58P, Sangkat Phnom Penh Thmey , Khan Seasok, Phnom Penh, Cambodia</p></div>
+					<div class="box-img">
+						<img src="<?php echo $BATH_URL ?>assets/img/icon/Khmer-AdsZone-Address-01.svg">
+					</div>
+					<div class="text"><p># 55,St. 58P, Sangkat Phnom Penh Thmey , Khan Seasok, Phnom Penh, Cambodia</p></div>
 				</div>
 					<div class="address">
-					<img src="<?php echo $BATH_URL ?>assets/img/icon/Khmer-AdsZone-Phone-01.svg"><div class="text"><p>+855 17 518 100</p><p>+855 69 866 803</p></div>
+						<div class="box-img"><img src="<?php echo $BATH_URL ?>assets/img/icon/Khmer-AdsZone-Phone-01.svg"></div>
+					<div class="text"><p>+855 17 518 100</p><p>+855 69 866 803</p></div>
 				</div>
 					<div class="address">
-					<img src="<?php echo $BATH_URL ?>assets/img/icon/Khmer-AdsZone-Email-01.svg"> <div class="text"><p>charboralg@gmail.com</p><p>www.facebook.com/greenlifepp/</p></div>
+						<div class="box-img"><img src="<?php echo $BATH_URL ?>assets/img/icon/Khmer-AdsZone-Email-01.svg"></div>
+					<div class="text"><p>charboralg@gmail.com</p><p>www.facebook.com/greenlifepp/</p></div>
 				</div>
 				<div class="footer-bottom">
 					<p>© 2018 Green Life Landscaping Service.</p>

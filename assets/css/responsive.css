@@ -22,8 +22,6 @@
 	width: 140px !important;
 }
 
-
-
 /*home*/
 	#home .detail .text1 .subtitle h2{
 		line-height: 30px !important;
@@ -34,22 +32,42 @@
 			line-height: 30px !important;
 	}
 
-
-
-
 	#home .testimonial .col-sm-8 .box-icon{
 		padding-right: 30px;
 	}
 
 
+#home .qoute-plant .qoute-plant-text {
+    margin: 30px 30px !important;
+}
+
+
+#home .qoute-plant img {
+     height: 250px !important;
+}
 
 /*about*/
-
 #about .qoute-plant .col-sm-6 img{
 
 	height: 250px !important;
-
 }
+
+/*service*/
+
+#service .summary .box-img img{
+	width: 85% !important;
+}
+
+#service .main-content:nth-child(even) .overview .box-img img{
+	width: 85% !important;
+}
+
+#service .main-content:nth-child(even) .summary .box-img img{
+	width: 100% !important;
+}
+
+
+
 
 #about .qoute-plant .qoute-plant-text1 h3{
 	padding-left: 50px !important;
@@ -80,6 +98,9 @@
 /* Portrait tablet to landscape and desktop */
 @media (min-width:768px) and (max-width:991px) {
 
+body{
+	overflow-x: hidden;
+}
 
 /*about*/
 
@@ -99,6 +120,18 @@
 	width: 70% !important;
 }
 
+
+/*service*/
+
+#service .summary .box-img img{
+	width: 100% !important;
+	height: 500px;
+	object-fit: cover;
+}
+
+#service .main-content:nth-child(even) .overview .box-img img{
+	width: 100% !important;
+}
 
 
 

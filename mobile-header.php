@@ -10,8 +10,13 @@ $BATH_URL=BASE_URL;
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<link rel="stylesheet" type="text/css" href="<?php echo $BATH_URL?>assets/css/mobile-style.css">
-	<link rel="stylesheet" type="text/css" href="assets/vendor/slick-slider/slick.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo $BATH_URL?>assets/vendor/slick-slider/slick.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo $BATH_URL?>assets/vendor/animate.css">
 	<script type="text/javascript" src="<?php echo $BATH_URL?>assets/vendor/slick-slider/slick.min.js"></script>
+	<script type="text/javascript" src="<?php echo $BATH_URL?>assets/vendor/wow.min.js"></script>
+	<script type="text/javascript">
+		  new WOW().init();
+	</script>
 	<script type="text/javascript" src="<?php echo $BATH_URL?>assets/js/mobile-main.js"></script>
 	<script type="text/javascript">
 	</script>
@@ -33,7 +38,9 @@ $BATH_URL=BASE_URL;
 						<span>HOME</span>
 					</div>
 					<ul class="ul-media">
-						<li><a href="#" title=""><img src="assets/img/fb.svg" alt=""></a></li>
+						<li><a href="#" title=""><img src="<?php echo $BATH_URL?>assets/img/icon/fb.svg" alt=""></a></li>
+												<li><a href="#" title=""><img src="<?php echo $BATH_URL?>assets/img/icon/youtube.svg" alt=""></a></li>
+
 					</ul>
 				</div>
 			</div>
