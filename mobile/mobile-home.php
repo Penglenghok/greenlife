@@ -169,15 +169,17 @@
 
 							<div class="testimonial">
 							<div class="item ">
-								<div class="title">Ms. Elna
-T-SHOP, Diputy Director</div>
+								<div class="title"><p>Ms. Elna</p>
+									<p>T-SHOP, Diputy Director</p>
+</div>
 								<div class="desc">The best customer service is if the customer doesn’t need to call you, doesn’t need to talk to you. It just works.</div>
 								<div class="box-img"><img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-testimonail-02.jpg"></div>
 							</div>
 
 							<div class="item">
-								<div class="title">Ms. Elna
-T-SHOP, Diputy Director</div>
+												<div class="title"><p>Ms. Elna</p>
+									<p>T-SHOP, Diputy Director</p>
+</div>
 								<div class="desc">The best customer service is if the customer doesn’t need to call you, doesn’t need to talk to you. It just works.
 								The best customer service is if the customer doesn’t need to call you, doesn’t need to talk to you. It just works.</div>
 								<div class="box-img"><img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-testimonail-01.jpg"></div>

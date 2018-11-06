@@ -226,6 +226,10 @@ flex: 1;
 	font-weight: bold;
 }
 
+#home .testimonial .item .title p{
+	margin: 0;
+}
+
 #home .testimonial .item .desc{
 	margin-top: 10px;
 	line-height: 20px;
