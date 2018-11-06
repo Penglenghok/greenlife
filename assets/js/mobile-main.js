@@ -112,12 +112,37 @@
           dotsClass:'dot-banner',
           autoplay:true,
           autoplaySpeed:3000,
-
-
         });
          $('.dot-banner li button').text('');
 
 
+
+         $('#home .testimonial').slick({
+                 dots:false,
+            arrows:false,
+          dotsClass:'dot-banner',
+          autoplay:true,
+          autoplaySpeed:3000,
+
+  centerMode: true,
+  focusOnSelect: true
+         });
+
+
+         $('#footer .partner').slick({
+             arrows:false,
+             rows:2,
+             dots:false,
+              dotsClass:'dot-footer',
+             slidesToShow: 4,
+              slidesToScroll: 4,
+                 autoplay:true,
+          autoplaySpeed:3000,
+         });
+
+                  $('.dot-footer li button').text('');
+
+        
     });
 
 

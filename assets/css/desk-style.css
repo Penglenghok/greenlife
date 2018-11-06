@@ -134,6 +134,7 @@ a:hover{
 .box-underline-right{
   display: flex;
   justify-content: flex-end;}
+  
 .box-underline-left{
   display: flex;
   justify-content: flex-start;

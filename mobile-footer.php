@@ -1,6 +1,89 @@
 <div id="wrap"><!-- footer -->
 		<div id="footer">
 			<div class="container-footer">
+					<h3 style="font-size:bold;color: #00A651;text-align: center;margin: 0px;">OUR PARTNER</h3>
+				<div class="partner" style="padding-top: 10px;padding-bottom: 10px;">
+					<div class="item">
+						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-01.jpg">
+					</div>	
+					<div class="item">
+						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-02.jpg">
+					</div>	
+					<div class="item">
+						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-03.jpg">
+					</div>	
+					<div class="item">
+						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-05.jpg">
+					</div>	
+
+						<div class="item">
+						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-06.jpg">
+					</div>	
+					<div class="item">
+						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-07.jpg">
+					</div>	
+					<div class="item">
+						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-08.jpg">
+					</div>	
+					<div class="item">
+						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-01.jpg">
+					</div>
+
+				
+					<div class="item">
+						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-01.jpg">
+					</div>	
+					<div class="item">
+						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-02.jpg">
+					</div>	
+					<div class="item">
+						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-03.jpg">
+					</div>	
+					<div class="item">
+						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-05.jpg">
+					</div>	
+
+						<div class="item">
+						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-06.jpg">
+					</div>	
+					<div class="item">
+						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-07.jpg">
+					</div>	
+					<div class="item">
+						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-08.jpg">
+					</div>	
+					<div class="item">
+						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-01.jpg">
+					</div>
+
+					<div class="item">
+						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-01.jpg">
+					</div>	
+					<div class="item">
+						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-02.jpg">
+					</div>	
+					<div class="item">
+						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-03.jpg">
+					</div>	
+					<div class="item">
+						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-05.jpg">
+					</div>	
+
+						<div class="item">
+						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-06.jpg">
+					</div>	
+					<div class="item">
+						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-07.jpg">
+					</div>	
+					<div class="item">
+						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-08.jpg">
+					</div>	
+					<div class="item">
+						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-01.jpg">
+					</div>
+
+				</div>
+
 				<h2>Contact</h2>
 				<div class="address">
 					<img src="<?php echo $BATH_URL ?>assets/img/icon/Khmer-AdsZone-Address-01.svg"><div class="text"><p># 55,St. 58P, Sangkat Phnom Penh Thmey , Khan Seasok, Phnom Penh, Cambodia</p></div>

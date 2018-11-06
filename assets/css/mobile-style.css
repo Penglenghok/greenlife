@@ -19,7 +19,7 @@ h2{
 	font-size: 25px;
 }
 h3{
-    font-size: 20px;
+    font-size: 18px;
 }
 
 p{
@@ -33,6 +33,24 @@ p{
 	background: rgba(0,0,0,0.2);
 	z-index: 5;
 }
+ .gradient{
+    position: absolute;top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.3);
+}
+
+.box-underline-left{
+  display: flex;
+  justify-content: flex-start;
+}
+.underline{
+  background-color: #00A651;
+  height: 2px;
+  width: 100px;
+  display: block;
+}
+
 /****************************************************************************
 ////////////////////////////////////////////////////////////////////////////////
 * 	Blog Header
@@ -356,3 +374,57 @@ padding-top: 20px;
 		padding-top: 10px;
 }
 /*quick-link*/
+
+#footer .partner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+#footer .partner .item{
+
+}
+
+#footer .partner .item img{
+    width: 90px;
+    height: 90px;
+    margin:5px;
+    border:solid 1px black;
+}
+
+.dot-footer{
+    list-style: none;
+    position: absolute;
+    left: 0;
+    z-index: 10;
+    margin:0;
+    padding: 0px;
+    width: 100%;
+    bottom: 25px;
+    display: flex;
+    height: auto;
+    justify-content: center;
+    align-items: center;}
+
+.dot-footer li{
+    display: inline-block;
+    list-style: none;
+    margin:2px;
+}
+
+.dot-footer li button{
+    width: 10px ;
+    height: 10px;
+    margin:0;
+    background-color: white;
+    border:solid 1px black;
+    padding: 0px;
+}
+
+.dot-footer li.slick-active button{
+    border:none ;
+    background-color: green;
+    width: 10px !important;
+    height: 10px  !important;
+}
