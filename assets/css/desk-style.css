@@ -168,9 +168,10 @@ a:hover{
       #header .menu-top a{color: white;text-decoration: none;opacity: 1;}
       
        #header .menu-top li{display: inline;font-size: 12px;color: white;padding: 10px;}
-      #header .menu-top a li:hover{
-        color: black;
+      #header .menu-top a:hover{
+       opacity: 0.5;
       }
+
       .media{padding: 0;margin: 0;list-style: none;float: right;padding-top: 12px;}
       .media li{float: left;margin-left: 10px;margin-right: 10px}
       .media li a{display:block;height: 28px;width: 28px;border-radius: 50%;overflow: hidden;}
@@ -188,7 +189,7 @@ a:hover{
       #header .nav-bottom .menu{float: left;padding: 0;margin: 0;list-style: none;}
       #header .nav-bottom .menu li{float: left;}
       #header .nav-bottom .menu li a{display: block;padding: 15px 10px;font-size: 14px;color: white;text-decoration: none;transition: 0.3s;}
-      #header .nav-bottom .menu li a:hover{color: #32CF9D;}
+      #header .nav-bottom .menu li a:hover{color:#00A651;}
       #header nav a.active{color: #32CF9D;}
       #header .nav-bottom .logo,
       #header .nav-bottom .menu li,

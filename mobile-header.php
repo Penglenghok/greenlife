@@ -51,11 +51,11 @@ $BATH_URL=BASE_URL;
 							<img src="<?php echo $BATH_URL?>assets/img/icon/Khmer-AdsZone-Logo-White-01.svg" alt="">
 						</div>
 					</div>
-					<li><a href="" title="">HOME</a></li>
-					<li><a href="" title="">ABOUT GREEN</a></li>
-					<li><a href="" title="">OUR SERVICE</a></li>
-					<li><a href="" title="">PORTFOLIO</a></li>
-					<li><a href="" title="">NEWS</a></li>
+					<li><a href="<?php echo $BATH_URL?>index.php" title="">HOME</a></li>
+					<li><a href="<?php echo $BATH_URL?>/mobile/mobile-about.php" title="">ABOUT GREEN</a></li>
+					<li><a href="<?php echo $BATH_URL?>/mobile/mobile-service.php" title="">OUR SERVICE</a></li>
+					<li><a href="<?php echo $BATH_URL?>/mobile/mobile-portfolio.php" title="">PORTFOLIO</a></li>
+					<li><a href="<?php echo $BATH_URL?>/mobile/mobile-news.php" title="">NEWS</a></li>
 					<li><a href="" title="">CONTACT GREEN</a></li>
 				</ul>
 			</nav>

@@ -2,9 +2,6 @@
 include_once('../desk-header.php');
 ?>
 <link rel="stylesheet" type="text/css" href="<?php echo $BATH_URL;?>assets/css/desk-style-about.css">
-
-
-
 <div id="wrapper">
 	<div id="content">
 		<div id="about">
@@ -45,7 +42,7 @@ include_once('../desk-header.php');
 							<div class="col-sm-6 text-left wow zoomIn">
 								<div class="title">
 									<img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg"">
-									<h2>OUR MISSION</h2>
+									<h2>OUR VISSION</h2>
 								</div>
 								<div class="subtitle">
 									<h2>TO HELP
@@ -71,8 +68,6 @@ include_once('../desk-header.php');
 						</div>
 					</div>
 				</div>
-
-
 				<!-- people -->
 				<div class="container-fluid people">
 					<div class="row">
