@@ -68,7 +68,6 @@ include_once('../desk-header.php');
 							<div class="social-media">
 							<img src="<?php echo $BATH_URL?>assets/img/Facebook-Link-Share.jpg">
 							</div>
-					
 						</div>
 					</div>
 					<div class="col-sm-7">

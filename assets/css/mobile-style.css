@@ -52,6 +52,30 @@ p{
   display: block;
 }
 
+
+.button-1{
+  background:none;
+  border: none;
+}
+
+.button-1{
+  display: flex;
+  text-decoration: none;
+  height: 40px;
+  width: 168px;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #00A651;
+  color: #00A651;
+  transition: 0.3s;
+
+}
+
+.button-1:hover{
+  color: white;
+  background-color: #00A651;
+}
+
 /****************************************************************************
 ////////////////////////////////////////////////////////////////////////////////
 * 	Blog Header

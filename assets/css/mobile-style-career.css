@@ -1,0 +1,65 @@
+#career .overview .text{
+	padding: 30px;
+}
+
+#career .overview .text .title {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#career .overview .text .title img{
+	width: 18px;
+	height:24px;
+}
+
+#career .overview .text .title h3{
+	color: #00A651;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-left: 5px;
+}
+
+#career .overview .text .subtitle{
+
+	margin-top: 30px;
+}
+
+#career  .overview .text .subtitle p{
+	margin-top: 20px;
+}
+
+
+
+#career .career-title .title{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+#career .career-title h3{
+	font-weight: bold;
+
+}
+#career .career-title a{
+	text-decoration: none;
+}
+
+#career  .career-title .text{
+	margin-top:10px;
+
+	padding:0 30px;
+
+}
+
+#career .career-title .text .text-row{
+	display: flex;
+
+}
+
+#career .career-title .text .text-row p{
+	flex:1;
+	margin-top: 5px;
+	margin-bottom: 0;
+}
