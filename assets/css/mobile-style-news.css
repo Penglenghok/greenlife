@@ -26,19 +26,19 @@
 }
 
 #news .qoute-plant .item .text p{
-	padding:0 10px;
+	padding:0 20px;
 	color: #808285;
 	font-size: 12px;
 }
 
 #news .qoute-plant .item .text h4{
 	font-size: 14px;
-	padding:0 10px;
+	padding:0 20px;
 	font-weight: 500;
 }
 
 #news .qoute-plant .item .text .box-underline-left{
-	padding:0 10px;
+	padding:0 20px;
 }
 
 #news .qoute-plant .item:nth-child(even) {
@@ -56,11 +56,11 @@
 
 /*navigation*/
 #news .navigation a,p{
-	font-size: 10px;
+	font-size: 14px;
 }
 
 #news .navigation{
-  height: 40px;
+  height: 60px;
   background-color:#00A651;
   display: flex;
   justify-content: center;
@@ -77,7 +77,7 @@
   color: white;
   justify-content: center;
   align-items: center;
-  width: 100px;
+  width: 50px;
 }
 #news .navigation .inner-navigation a{
   text-decoration: none;
@@ -90,11 +90,11 @@ margin: 0 5px;
 #news .navigation .inner-navigation .box{
   display: flex;
   justify-content: center;align-items: center;
-  width: 15px;
-  height: 15px;
+  width: 30px;
+  height: 30px;
   border: solid 1px white;
   color: white;
-margin: 0 5px;
+margin: 0 10px;
 text-decoration: none;
 transition: 0.5s;
 }

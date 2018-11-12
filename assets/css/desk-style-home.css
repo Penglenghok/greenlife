@@ -281,7 +281,7 @@ margin: 0px;
 }
 #home .qoute-plant .col-sm-6 .text img{
   width: 24px;
-  height: 43px;
+  height: 43px !important;
   margin: 30px 0px;
 }
 /*hover qoute plant */

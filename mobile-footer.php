@@ -3,9 +3,11 @@
 			<div class="container-footer">
 				<h3>OUR PARTNER</h3>
 				<div class="partner">
+					
 					<div class="item">
 						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-01.jpg">
 					</div>	
+
 					<div class="item">
 						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-02.jpg">
 					</div>	
@@ -84,7 +86,7 @@
 
 				</div>
 
-				<h2>Contact</h2>
+				<h3>CONTACT</h3>
 				<div class="address">
 					<div class="box-img">
 						<img src="<?php echo $BATH_URL ?>assets/img/icon/Khmer-AdsZone-Address-01.svg">

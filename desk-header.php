@@ -19,6 +19,7 @@ $BATH_URL=BASE_URL;
   <link rel="stylesheet" type="text/css" href="<?php echo $BATH_URL;?>assets/css/responsive.css">
   <link rel="stylesheet" type="text/css" href="<?php echo $BATH_URL;?>assets/vendor/animate.css">
   <script type="text/javascript" src="<?php echo $BATH_URL;?>assets/vendor/wow.min.js"></script>
+  <script type="text/javascript" src="<?php echo $BATH_URL;?>assets/vendor/lazyload.min.js" async=""></script>
   <script type="text/javascript">
     new WOW().init();
   </script>
@@ -91,6 +92,7 @@ $BATH_URL=BASE_URL;
             <nav class="nav-top">
               <div style="float: right;">
                 <ul class="media">
+                        <li><p>VISIT US</p></li>
                   <li><a href="" title=""><img src="<?php echo $BATH_URL;?>assets/img/icon/fb.svg"></a></li>
                   <li><a href="" title=""><img src="<?php echo $BATH_URL;?>assets/img/icon/youtube.svg"></a></li>
                 </ul>
@@ -98,7 +100,7 @@ $BATH_URL=BASE_URL;
                   <li><a href="<?php echo $BATH_URL;?>desktop/content-career.php">CAREERS</a></li>
                   <li><a href="<?php echo $BATH_URL;?>desktop/content-faq.php">FAQ</a></li>
                   <li><a href="">MAP</a></li>
-                  <li><a href="">VISIT US</a></li>
+            
                 </ul>
               </div>
             </nav>

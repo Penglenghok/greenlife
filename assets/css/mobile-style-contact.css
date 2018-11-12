@@ -1,12 +1,15 @@
 #contact  .form {
-	margin: 50px;
+	margin: 30px;
 }
+
 #contact a{
 	text-decoration: none;
 }
+
 #contact .form .title{
 	display: flex;
-	justify-content: center;align-items: center;
+	justify-content: center;
+	align-items: center;
 }
 
 #contact .form .title img{
@@ -21,10 +24,19 @@
 	padding-left: 5px;
 }
 
+input:focus {
+	outline-color: #00A651;
+}
+
+textarea:focus{
+	outline-color: #00A651;
+}
+
 #contact .form form{
 	display: flex;
 	flex-direction: column;
 }
+
 #contact .form form input{
 	height: 40px;
 	margin-top:30px;
@@ -33,19 +45,19 @@
 }
 
 #contact .form form textarea{
-		height: 275px;
+	height: 275px;
 	margin-top:30px;
 	padding-top: 10px;
 	padding-left: 15px;
-		border: solid 1px #e0e0e0;
+	border: solid 1px #e0e0e0;
 }
+
 #contact .form .box-button{
 	margin-top: 30px;
 	display: flex;
 	justify-content: flex-end;
 	align-items: flex-end;
 }
-
 
 #contact .map{
 	height: 350px;

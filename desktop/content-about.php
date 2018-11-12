@@ -17,7 +17,7 @@ include_once('../desk-header.php');
 						<div class="row">
 							<div class="col-sm-6"></div>
 							<div class="col-sm-6 text wow zoomIn">
-								<div class="title ">	<img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
+								<div class="title">	<img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
 									<h2>ABOUT GREEN LIFE</h2></div>
 									<div class="subtitle ">
 										<p>GREEN LIFE is an award-winning landscaping service company operating

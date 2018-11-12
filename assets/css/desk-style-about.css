@@ -18,32 +18,39 @@ width: 100%;
 height: 100%;
 object-fit: cover;
 }
+
 #about .overview .inner-overview{
 	position: absolute;
 	top: 0;
 }
+
 #about .overview .inner-overview .text{
 	padding: 50px;
 	display: flex;
 	flex-direction: column;
 }
+
 #about .overview .inner-overview .text .title{
 	display:flex;
 }
+
 #about .overview .inner-overview .text .title img{
 
 	width: 24px;
 	height: 43px;
 }
+
 #about .overview .inner-overview .text h2{
 	font-weight: bold;
 	color: #00A651;
 margin-top: 10px;
 margin-left: 10px;
 }
+
 #about .overview .inner-overview .text .subtitle{
 	margin-top: 20px;
 }
+
 #about .overview .inner-overview .text .subtitle p{
 width: 100%;
 margin-top: 30px;
@@ -110,9 +117,7 @@ margin-top: 30px;
 	text-align: left;
 }
 
-
 /*Our people*/
-
 #about .people .col-sm-6{
 	padding: 0;
 }
@@ -129,30 +134,33 @@ margin-top: 30px;
 width: 100%;
 height: 100%;
 object-fit: cover;
-
 }
+
 #about .people .inner-people{
 	position: absolute;
 	top: 0;
 }
+
 #about .people .inner-people .text{
 	padding: 50px;
 	display: flex;
 	flex-direction: column;
 }
+
 #about .people .inner-people .text .title{
 	display:flex;
 }
-#about .people .inner-people .text .title img{
 
+#about .people .inner-people .text .title img{
 	width: 24px;
 	height: 43px;
 }
+
 #about .people .inner-people .text h2{
 	font-weight: bold;
 	color: #00A651;
 margin-top: 10px;
-margin-left: 10px;
+
 }
 #about .people .inner-people .text .subtitle{
 	margin-top: 20px;

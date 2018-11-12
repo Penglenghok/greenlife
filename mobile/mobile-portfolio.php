@@ -161,11 +161,13 @@ include_once('../mobile-header.php')
 						
 			<div class="container-fluid navigation">
 				<div class="inner-navigation">
+
 					<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">
 						<div class="arrow">
-							<img src="<?php echo $BATH_URL;?>assets/img/icon/left-arrow.svg"><p>Prev</p>
+							<img src="<?php echo $BATH_URL;?>assets/img/icon/left-arrow.svg">
 						</div>
 					</a>
+
 					<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">
 						<div class="box">
 							1
@@ -182,20 +184,9 @@ include_once('../mobile-header.php')
 							3
 						</div>
 					</a>
-
-					<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">
-						<div class="box">
-							4
-						</div>
-					</a>
-						<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">
-						<div class="box">
-							4
-						</div>
-					</a>
 					<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php">
 						<div class="arrow">
-							<p>Next</p><img src="<?php echo $BATH_URL;?>assets/img/icon/right-arrow.svg">
+							<img src="<?php echo $BATH_URL;?>assets/img/icon/right-arrow.svg">
 						</div>
 					</a>
 				</div>

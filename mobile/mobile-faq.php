@@ -13,7 +13,6 @@ include_once('../mobile-header.php');
   <div class="subtitle" >You can find some answers to most frequently asked questions from customers.
 please contact our staff through phone number, email below.</div>
 
-
 <div class="main-faq">
   <div data-parent="boxStyle">
   <div class="question" data-clickshow="dropdown" data-sign="+,-">How much does Landscape Design cost?</div>

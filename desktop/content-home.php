@@ -16,9 +16,6 @@
             <div class="col-sm-6">
             </div>
           </div>
-
-
-
           <div class="container">
             <div class="container detail">
               <div class="row">
@@ -199,10 +196,9 @@
               <a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
             </div>
           </div>
-        </div>
 
-        <div class="row">
-          <div class="col-lg-3 col-sm-6">
+
+               <div class="col-lg-3 col-sm-6">
             <div class="black-layer"></div>
             <div class="box-img">
               <img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-05.jpg">
@@ -256,6 +252,10 @@
               <a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
             </div>
           </div>
+        </div>
+
+        <div class="row">
+     
         </div>
       </div>
 

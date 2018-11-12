@@ -175,6 +175,11 @@ a:hover{
       .media{padding: 0;margin: 0;list-style: none;float: right;padding-top: 12px;}
       .media li{float: left;margin-left: 10px;margin-right: 10px}
       .media li a{display:block;height: 28px;width: 28px;border-radius: 50%;overflow: hidden;}
+      .media li p{
+        color: white;
+        font-size: 12px;
+        margin-top: 7px;
+      }
       .media li a img{height: 100%;width: 100%;}
       /*end menu top*/
       /*main menu*/

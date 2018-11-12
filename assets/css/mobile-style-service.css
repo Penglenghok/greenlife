@@ -29,7 +29,7 @@ overflow-y: hidden;
 
 }
 #service .item .subitem .text .title{
-	margin-left: 10px;
+	margin:0 20px;
 display: flex;
 }
 
@@ -44,7 +44,7 @@ display: flex;
 }
 
 #service .item .subitem .text .subtitle h3{
-		margin-left: 10px;
+	margin: 0 20px;
 	color: #808285;
 	text-align: left;
 	margin-top: 10px;
@@ -60,13 +60,14 @@ display: flex;
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	height: 250px;
 }
 
 #service .item .detail .desc p{
-	font-size: 12px;
+	font-size: 14px;
 	margin: 0;
-	line-height: 15px;
-	padding: 10px;
+	line-height: 20px;
+	padding: 0 30px;
 }
 #service .item .detail .box-img{
 	flex: 1;

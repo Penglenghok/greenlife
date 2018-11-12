@@ -24,7 +24,6 @@
 						</div>
 					</div>
 
-
 					<!-- home portfolio -->
 					<div class="portfolio">
 						<div class="item">

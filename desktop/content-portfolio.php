@@ -65,10 +65,9 @@ include_once('../desk-header.php');
 							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
-				</div>
 
-				<div class="row">
-					<div class="col-lg-3 col-sm-6">
+
+<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-05.jpg">
@@ -122,13 +121,8 @@ include_once('../desk-header.php');
 							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
-				</div>
 
-		
-				<!-- row 2 -->
-
-					<div class="row">
-					<div class="col-lg-3 col-sm-6">
+						<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-01.jpg">
@@ -183,9 +177,119 @@ include_once('../desk-header.php');
 							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
 						</div>
 					</div>
-				</div>
 
-				<div class="row">
+						<div class="col-lg-3 col-sm-6">
+						<div class="black-layer"></div>
+						<div class="box-img">
+							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-05.jpg">
+						</div>
+						<div class="text">
+							<img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
+							<h3><span>GLORIA JEAN COFFEE</span></h3>
+							<h3>TOUK KORK BRAND</h3>
+							<p>Potter Plant Supply & Maintenance</p>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
+						</div>
+					</div>
+
+					<div class="col-lg-3 col-sm-6">
+						<div class="black-layer"></div>
+						<div class="box-img">
+							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-06.jpg">
+						</div>
+						<div class="text">
+							<img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
+							<h3><span>GLORIA JEAN COFFEE</span></h3>
+							<h3>TOUK KORK BRAND</h3>
+							<p>Potter Plant Supply & Maintenance</p>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
+						</div>
+					</div>
+
+					<div class="col-lg-3 col-sm-6">
+						<div class="black-layer"></div>
+						<div class="box-img">
+							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-07.jpg">
+						</div>
+						<div class="text">
+							<img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
+							<h3><span>GLORIA JEAN COFFEE</span></h3>
+							<h3>TOUK KORK BRAND</h3>
+							<p>Potter Plant Supply & Maintenance</p>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
+						</div>
+					</div>
+					<div class="col-lg-3 col-sm-6">
+						<div class="black-layer"></div>
+						<div class="box-img">
+							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-08.jpg">
+						</div>
+						<div class="text">
+							<img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
+							<h3><span>GLORIA JEAN COFFEE</span></h3>
+							<h3>TOUK KORK BRAND</h3>
+							<p>Potter Plant Supply & Maintenance</p>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
+						</div>
+					</div>
+
+
+						<div class="col-lg-3 col-sm-6">
+						<div class="black-layer"></div>
+						<div class="box-img">
+							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-01.jpg">
+						</div>
+						<div class="text">
+							<img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
+							<h3><span>GLORIA JEAN COFFEE</span></h3>
+							<h3>TOUK KORK BRAND</h3>
+							<p>Potter Plant Supply & Maintenance</p>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
+						</div>
+					</div>
+
+					<div class="col-lg-3 col-sm-6">
+						<div class="black-layer"></div>
+						<div class="box-img">
+							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-09.jpg">
+						</div>
+						<div class="text">
+							<img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
+							<h3><span>GLORIA JEAN COFFEE</span></h3>
+							<h3>TOUK KORK BRAND</h3>
+							<p>Potter Plant Supply & Maintenance</p>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
+						</div>
+					</div>
+
+					<div class="col-lg-3 col-sm-6">
+						<div class="black-layer"></div>
+						<div class="box-img">
+							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-03.jpg">
+						</div>
+						<div class="text">
+							<img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
+							<h3><span>GLORIA JEAN COFFEE</span></h3>
+							<h3>TOUK KORK BRAND</h3>
+							<p>Potter Plant Supply & Maintenance</p>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
+						</div>
+					</div>
+
+					<div class="col-lg-3 col-sm-6">
+						<div class="black-layer"></div>
+						<div class="box-img">
+							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-04.jpg">
+						</div>
+						<div class="text">
+							<img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
+							<h3><span>GLORIA JEAN COFFEE</span></h3>
+							<h3>TOUK KORK BRAND</h3>
+							<p>Potter Plant Supply & Maintenance</p>
+							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
+						</div>
+					</div>
+
 					<div class="col-lg-3 col-sm-6">
 						<div class="black-layer"></div>
 						<div class="box-img">
@@ -241,123 +345,17 @@ include_once('../desk-header.php');
 						</div>
 					</div>
 				</div>
+
+			
+
+		
+				
+
+			
 
 				<!-- row 3 -->
 
-					<div class="row">
-					<div class="col-lg-3 col-sm-6">
-						<div class="black-layer"></div>
-						<div class="box-img">
-							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-01.jpg">
-						</div>
-						<div class="text">
-							<img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-							<h3><span>GLORIA JEAN COFFEE</span></h3>
-							<h3>TOUK KORK BRAND</h3>
-							<p>Potter Plant Supply & Maintenance</p>
-							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
-						</div>
-					</div>
 
-					<div class="col-lg-3 col-sm-6">
-						<div class="black-layer"></div>
-						<div class="box-img">
-							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-09.jpg">
-						</div>
-						<div class="text">
-							<img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-							<h3><span>GLORIA JEAN COFFEE</span></h3>
-							<h3>TOUK KORK BRAND</h3>
-							<p>Potter Plant Supply & Maintenance</p>
-							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
-						</div>
-					</div>
-
-					<div class="col-lg-3 col-sm-6">
-						<div class="black-layer"></div>
-						<div class="box-img">
-							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-03.jpg">
-						</div>
-						<div class="text">
-							<img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-							<h3><span>GLORIA JEAN COFFEE</span></h3>
-							<h3>TOUK KORK BRAND</h3>
-							<p>Potter Plant Supply & Maintenance</p>
-							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
-						</div>
-					</div>
-
-					<div class="col-lg-3 col-sm-6">
-						<div class="black-layer"></div>
-						<div class="box-img">
-							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-04.jpg">
-						</div>
-						<div class="text">
-							<img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-							<h3><span>GLORIA JEAN COFFEE</span></h3>
-							<h3>TOUK KORK BRAND</h3>
-							<p>Potter Plant Supply & Maintenance</p>
-							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
-						</div>
-					</div>
-				</div>
-
-				<div class="row">
-					<div class="col-lg-3 col-sm-6">
-						<div class="black-layer"></div>
-						<div class="box-img">
-							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-05.jpg">
-						</div>
-						<div class="text">
-							<img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-							<h3><span>GLORIA JEAN COFFEE</span></h3>
-							<h3>TOUK KORK BRAND</h3>
-							<p>Potter Plant Supply & Maintenance</p>
-							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
-						</div>
-					</div>
-
-					<div class="col-lg-3 col-sm-6">
-						<div class="black-layer"></div>
-						<div class="box-img">
-							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-06.jpg">
-						</div>
-						<div class="text">
-							<img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-							<h3><span>GLORIA JEAN COFFEE</span></h3>
-							<h3>TOUK KORK BRAND</h3>
-							<p>Potter Plant Supply & Maintenance</p>
-							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
-						</div>
-					</div>
-
-					<div class="col-lg-3 col-sm-6">
-						<div class="black-layer"></div>
-						<div class="box-img">
-							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-07.jpg">
-						</div>
-						<div class="text">
-							<img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-							<h3><span>GLORIA JEAN COFFEE</span></h3>
-							<h3>TOUK KORK BRAND</h3>
-							<p>Potter Plant Supply & Maintenance</p>
-							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
-						</div>
-					</div>
-					<div class="col-lg-3 col-sm-6">
-						<div class="black-layer"></div>
-						<div class="box-img">
-							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-Portfolios-08.jpg">
-						</div>
-						<div class="text">
-							<img src="<?php echo $BATH_URL;?>assets/img/icon/Khmer-AdsZone-Tree-01.svg">
-							<h3><span>GLORIA JEAN COFFEE</span></h3>
-							<h3>TOUK KORK BRAND</h3>
-							<p>Potter Plant Supply & Maintenance</p>
-							<a href="<?php echo $BATH_URL;?>desktop/content-portfolio-detail.php"><button class="button-1">VIEW MORE</button></a>
-						</div>
-					</div>
-				</div>
 
 
 			</div>

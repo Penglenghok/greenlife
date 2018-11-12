@@ -357,11 +357,11 @@ margin: 0;
 }
 
 #footer{
-    padding-top: 10px;
-    padding-bottom: 15px;
+    background-color: white;
 }
 
 .container-footer{
+    padding-top: 20px;
 	background-color: white;
 }
 
@@ -426,16 +426,21 @@ margin: 0;
 }
 
 #footer .partner .item{
-
-s
-   width: 100px !important;
+   width: 80px !important;
+   height: 80px !important;
    margin: 0 !important;
+   padding: 0 5px;
+
+}
+
+.slick-slide{
+    outline: none !important;
 }
 
 #footer .partner .item img{
-    width: 80px;
-    height: 80px;
- border:solid 1px #e0e0e0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 .dot-footer{
