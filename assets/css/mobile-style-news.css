@@ -52,13 +52,10 @@
 #news .qoute-plant .item:nth-child(even) .text h4{
 	text-align: right;
 }
-
-
 /*navigation*/
 #news .navigation a,p{
 	font-size: 14px;
 }
-
 #news .navigation{
   height: 60px;
   background-color:#00A651;

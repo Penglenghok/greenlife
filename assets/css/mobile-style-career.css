@@ -1,5 +1,7 @@
+
+
 #career .overview .text{
-	padding: 30px;
+	padding:0 30px;
 }
 
 #career .overview .text .title {
@@ -19,25 +21,20 @@
 	margin-top: 10px;
 	margin-left: 5px;
 }
-
 #career .overview .text .subtitle{
 
-	margin-top: 30px;
 }
-
-#career  .overview .text .subtitle p{
+#career  .overview .ext .subtitle p{
 	margin-top: 20px;
 }
-
-
-
+#career .career{
+	margin-top: 20px;
+}
 #career .career-title .title{
 	display: flex;
 	justify-content: center;
 	align-items: center;
 }
-
-
 #career .career-title h3{
 	font-weight: bold;
 
@@ -62,4 +59,34 @@
 	flex:1;
 	margin-top: 5px;
 	margin-bottom: 0;
+}
+
+
+#career .job-desc{
+	padding: 0 30px;
+	line-height: 20px;
+	text-align: center;
+	margin-top: 20px;
+
+}
+
+#career .job-res{
+	padding: 0 50px;
+
+}
+
+
+#career .job-res ul{
+	padding: 0px;
+	margin:0;
+		overflow-x: visible !important; 
+		border-bottom: 1px solid #e0e0e0;
+		padding-bottom: 20px !important;
+}
+
+#career .job-res ul li{
+ 	padding-top: 5px;
+ 	line-height: 20px;
+ 		overflow-x: visible !important; 
+
 }

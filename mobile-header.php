@@ -56,7 +56,11 @@ $BATH_URL=BASE_URL;
 					<li><a href="<?php echo $BATH_URL?>/mobile/mobile-service.php" title="">OUR SERVICES</a></li>
 					<li><a href="<?php echo $BATH_URL?>/mobile/mobile-portfolio.php" title="">PORTFOLIO</a></li>
 					<li><a href="<?php echo $BATH_URL?>/mobile/mobile-news.php" title="">NEWS</a></li>
-					<li><a href="" title="">CONTACT GREEN</a></li>
+					<li><a href="<?php echo $BATH_URL?>/mobile/mobile-contact.php" title="">CONTACT GREEN</a></li>
+					<li><a href="<?php echo $BATH_URL?>/mobile/mobile-faq.php" title="">FAQ</a></li>
+					<li><a href="<?php echo $BATH_URL?>/mobile/mobile-career.php" title="">CAREER</a></li>
+
+
 				</ul>
 			</nav>
 		</div>
