@@ -1,0 +1,26 @@
+#detail .item .text h3{
+	color: black;
+}
+#detail .item .text p{
+	line-height: 20px;
+}
+#detail .item .text {
+	padding: 0 30px;
+	margin-top: 20px;
+}
+
+#detail .item .text ol {
+	overflow-x: visible;
+	list-style: 
+ }
+
+ #detail .item .text ol li{
+ 		overflow-x: visible;
+ 		margin-top: 10px;
+ }
+  #detail .item img{
+  	width: 100%;
+  	height: 100%;
+  	object-fit: cover;
+  	margin-top: 10px;
+  }

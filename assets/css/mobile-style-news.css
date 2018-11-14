@@ -41,15 +41,15 @@
 	padding:0 20px;
 }
 
-#news .qoute-plant .item:nth-child(even) {
+#news .qoute-plant a:nth-child(even) .item {
 	flex-direction: row-reverse;
 }
 
-#news .qoute-plant .item:nth-child(even) .text{
+#news .qoute-plant  a:nth-child(even) .item .text{
 	align-items: flex-end;
 }
 
-#news .qoute-plant .item:nth-child(even) .text h4{
+#news .qoute-plant  a:nth-child(even) .item .text h4{
 	text-align: right;
 }
 /*navigation*/

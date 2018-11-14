@@ -30,8 +30,6 @@
 					<div class="item">
 						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-01.jpg">
 					</div>
-
-				
 					<div class="item">
 						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-01.jpg">
 					</div>	
@@ -83,9 +81,7 @@
 					<div class="item">
 						<img src="<?php echo $BATH_URL ?>assets/img/Green-Life-Landscaping-service-Cambodia-Client-01.jpg">
 					</div>
-
 				</div>
-
 				<h3>CONTACT</h3>
 				<div class="address">
 					<div class="box-img">
@@ -99,7 +95,7 @@
 				</div>
 					<div class="address">
 						<div class="box-img"><img src="<?php echo $BATH_URL ?>assets/img/icon/Khmer-AdsZone-Email-01.svg"></div>
-					<div class="text"><p>charboralg@gmail.com</p><p>www.facebook.com/greenlifepp/</p></div>
+					<div class="text"><a href=""><p>charboralg@gmail.com</p></a><a href=""><p>www.facebook.com/greenlifepp/</p></a></div>
 				</div>
 				<div class="footer-bottom">
 					<p>© 2018 Green Life Landscaping Service.</p>

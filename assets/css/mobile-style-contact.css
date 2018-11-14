@@ -61,4 +61,5 @@ textarea:focus{
 
 #contact .map{
 	height: 350px;
+	overflow: hidden;
 }

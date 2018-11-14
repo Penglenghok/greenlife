@@ -74,8 +74,18 @@
 }
 
 
-	/*footer*/
 
+/*portfolio detail*/
+
+
+#detail .right .text .text-detail .title{
+	font-size: 30px !important;
+}
+#detail .right .text{
+width:100% !important;
+}
+
+	/*footer*/
 
 	#footer .partner .box-img{
   flex: 1;

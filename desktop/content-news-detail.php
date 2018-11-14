@@ -13,30 +13,29 @@ include_once('../desk-header.php');
 							<img src="<?php echo $BATH_URL;?>assets/img/Green-Life-Landscaping-service-Cambodia-news-02.jpg">
 						</div>
 						<div class="social-media">
-							<img src="<?php echo $BATH_URL;?>assets/img/Facebook-Link-Share.jpg">
+							<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&width=450&layout=standard&action=like&size=small&show_faces=true&share=true&height=80&appId" width="100%" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 						</div>
 					</div>
-
 					<div class="col-sm-8 right">
 						<div class="text">
 							<div class="title"><h2>10 GARDENING TIPS FOR BEGINNERS</h2></div>
 							<div class="date"><p>March 26, 2016</p></div>
 							<div class="summary">The rewards of gardening are great — fresh air, exercise, beauty and relaxation, to name a few. But designing and
-planting your very first garden can feel like an overwhelming task. Luckily, gardens are surprisingly forgiving creations,
-and the best way to learn is by simply diving in. Here are 10 tips to help get a new garden off on the right foot.
-							<ul>
-								<li>Get to know your site</li>
-								<li>Determine your style and goals</li>
-								<li>Start small</li>
-								<li>Make a plan</li>
-								<li>Pick the right tools for the job (without going overboard)</li>
-								<li>Mix up perennials and annuals</li>
-								<li>Repeat, repeat, repeat</li>
-								<li>Combine seeds and starts for an affordable mix</li>
-								<li>Grow what you like</li>
-								<li>Further your garden education</li>
-							</ul>
-</div>
+								planting your very first garden can feel like an overwhelming task. Luckily, gardens are surprisingly forgiving creations,
+								and the best way to learn is by simply diving in. Here are 10 tips to help get a new garden off on the right foot.
+								<ul>
+									<li>Get to know your site</li>
+									<li>Determine your style and goals</li>
+									<li>Start small</li>
+									<li>Make a plan</li>
+									<li>Pick the right tools for the job (without going overboard)</li>
+									<li>Mix up perennials and annuals</li>
+									<li>Repeat, repeat, repeat</li>
+									<li>Combine seeds and starts for an affordable mix</li>
+									<li>Grow what you like</li>
+									<li>Further your garden education</li>
+								</ul>
+							</div>
 						</div>
 
 						<div class="box-img">

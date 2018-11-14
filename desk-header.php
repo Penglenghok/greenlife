@@ -92,15 +92,15 @@ $BATH_URL=BASE_URL;
             <nav class="nav-top">
               <div style="float: right;">
                 <ul class="media">
-                        <li><p>VISIT US</p></li>
-                  <li><a href="" title=""><img src="<?php echo $BATH_URL;?>assets/img/icon/fb.svg"></a></li>
+                
+                  <li><a href="https://www.facebook.com/GreenLife-387488994764912/" title=""><img src="<?php echo $BATH_URL;?>assets/img/icon/fb.svg"></a></li>
                   <li><a href="" title=""><img src="<?php echo $BATH_URL;?>assets/img/icon/youtube.svg"></a></li>
                 </ul>
                  <ul class="menu-top">
                   <li><a href="<?php echo $BATH_URL;?>desktop/content-career.php">CAREERS</a></li>
                   <li><a href="<?php echo $BATH_URL;?>desktop/content-faq.php">FAQ</a></li>
                   <li><a href="">MAP</a></li>
-            
+                <li>VISIT US</li>
                 </ul>
               </div>
             </nav>

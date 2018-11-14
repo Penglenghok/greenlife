@@ -470,12 +470,12 @@ position: relative;
           #header .container-fluid-menu ul.menu{position: fixed;left: 0;top: 0;background-color: white;height: 100%;width: 0 ;overflow: hidden;}
           #header .container-fluid-menu ul.menu li{width: 100%;float: left;border-bottom: 1px solid #e0e0e0;}
           #header .container-fluid-menu ul.menu li a{color: black !important;transition: 0.3s;}
-          #header .container-fluid-menu ul.menu li a:hover{color: #32CF9D !important;}
+          #header .container-fluid-menu ul.menu li a:hover{color:  #00A651 !important;}
           #header .nav-bottom .logo{height: 45px !important;left: 0;display:block;}
           .media{padding-top: 7px !important;}
           /*hamburger*/
           #header .hamburger{float: left;display: block;padding-top: 7px;margin-right: 40px;cursor: pointer;}
-          .bar1, .bar2, .bar3 {width: 30px;height: 2px;background-color: #32CF9D;margin: 6px 0;transition: 0.4s;}
+          .bar1, .bar2, .bar3 {width: 30px;height: 2px;background-color: #00A651;margin: 6px 0;transition: 0.4s;}
           .change-hamburger-menu .bar1 {-webkit-transform: rotate(-45deg) translate(-6px, 6px);transform: rotate(-45deg) translate(-5px, 5px);}
           .change-hamburger-menu .bar2 {opacity: 0;}
           .change-hamburger-menu .bar3 {-webkit-transform: rotate(45deg) translate(-6px, -6px);transform: rotate(45deg) translate(-6px, -6px);}

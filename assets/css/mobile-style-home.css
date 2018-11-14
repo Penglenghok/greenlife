@@ -182,15 +182,15 @@ flex: 1;
 	padding:0 20px;
 }
 
-#home .qoute-plant .item:nth-child(even) {
+#home .qoute-plant a:nth-child(even) .item {
 	flex-direction: row-reverse;
 }
 
-#home .qoute-plant .item:nth-child(even) .text{
+#home .qoute-plant a:nth-child(even) .item .text{
 	align-items: flex-end;
 }
 
-#home .qoute-plant .item:nth-child(even) .text h4{
+#home .qoute-plant a:nth-child(even) .item .text h4{
 	text-align: right;
 }
 

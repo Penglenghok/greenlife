@@ -19,13 +19,7 @@
 #detail .left .social-media img{
 	width: 100%;
 	height: 100%;
-
 }
-
-
-
-
-
 
 /*right*/
 #detail .right{
@@ -33,7 +27,7 @@
 }
 
 #detail .right .text{
-width: 530px;
+
 }
 
 #detail .right .text .text-detail{
@@ -41,7 +35,7 @@ width: 530px;
 }
 
 #detail .right .text .text-detail p{
-margin-top: 3px;
+
 flex:1;
 }
 
@@ -53,8 +47,9 @@ flex:1;
  font-size: 35px;
 }
 
-#detail .right .text .text-detail p span{
-	margin-left: -150px;
+#detail .right .text .text-detail span{
+	flex: 4;
+	text-align: left;
 }
 
 #detail .right .text .text-detail h2{

@@ -9,6 +9,8 @@ include_once('../mobile-header.php')
 				<!-- home portfolio -->
 				<div class="container-home">
 						<div class="qoute-plant">
+
+							<a href="<?php echo $BATH_URL ?>mobile/mobile-news-detail.php">
 								<div class="item wow zoomIn">
 									<div class="box-img"><img src="<?php echo $BATH_URL?>assets/img/Green-Life-Landscaping-service-Cambodia-news-02.jpg"></div>
 									<div class="text">
@@ -19,6 +21,9 @@ include_once('../mobile-header.php')
 										</div>
 									</div>
 								</div>
+								</a>
+
+									<a href="<?php echo $BATH_URL ?>mobile/mobile-news-detail.php">
 								<div class="item wow zoomIn">
 									<div class="box-img"><img src="<?php echo $BATH_URL?>assets/img/Green-Life-Landscaping-service-Cambodia-news-02.jpg"></div>
 									<div class="text">
@@ -29,6 +34,8 @@ include_once('../mobile-header.php')
 										</div>
 									</div>
 								</div>
+								</a>
+									<a href="<?php echo $BATH_URL ?>mobile/mobile-news-detail.php">
 								<div class="item wow zoomIn">
 									<div class="box-img"><img src="<?php echo $BATH_URL?>assets/img/Green-Life-Landscaping-service-Cambodia-news-02.jpg"></div>
 									<div class="text">
@@ -39,6 +46,8 @@ include_once('../mobile-header.php')
 										</div>
 									</div>
 								</div>
+								</a>
+									<a href="<?php echo $BATH_URL ?>mobile/mobile-news-detail.php">
 								<div class="item wow zoomIn">
 									<div class="box-img"><img src="<?php echo $BATH_URL?>assets/img/Green-Life-Landscaping-service-Cambodia-news-02.jpg"></div>
 									<div class="text">
@@ -49,8 +58,10 @@ include_once('../mobile-header.php')
 										</div>
 									</div>
 								</div>
-
-										<div class="item wow zoomIn">
+								</a>
+							
+								<a href="<?php echo $BATH_URL ?>mobile/mobile-news-detail.php">
+								<div class="item wow zoomIn">
 									<div class="box-img"><img src="<?php echo $BATH_URL?>assets/img/Green-Life-Landscaping-service-Cambodia-news-02.jpg"></div>
 									<div class="text">
 										<p>MARCH 26, 2016</p>
@@ -60,8 +71,10 @@ include_once('../mobile-header.php')
 										</div>
 									</div>
 								</div>
+								</a>
 
-										<div class="item wow zoomIn">
+									<a href="<?php echo $BATH_URL ?>mobile/mobile-news-detail.php">
+								<div class="item wow zoomIn">
 									<div class="box-img"><img src="<?php echo $BATH_URL?>assets/img/Green-Life-Landscaping-service-Cambodia-news-02.jpg"></div>
 									<div class="text">
 										<p>MARCH 26, 2016</p>
@@ -71,8 +84,10 @@ include_once('../mobile-header.php')
 										</div>
 									</div>
 								</div>
+								</a>
 
-										<div class="item wow zoomIn">
+									<a href="<?php echo $BATH_URL ?>mobile/mobile-news-detail.php">
+								<div class="item wow zoomIn">
 									<div class="box-img"><img src="<?php echo $BATH_URL?>assets/img/Green-Life-Landscaping-service-Cambodia-news-02.jpg"></div>
 									<div class="text">
 										<p>MARCH 26, 2016</p>
@@ -82,8 +97,10 @@ include_once('../mobile-header.php')
 										</div>
 									</div>
 								</div>
+								</a>
 
-										<div class="item wow zoomIn">
+									<a href="<?php echo $BATH_URL ?>mobile/mobile-news-detail.php">
+								<div class="item wow zoomIn">
 									<div class="box-img"><img src="<?php echo $BATH_URL?>assets/img/Green-Life-Landscaping-service-Cambodia-news-02.jpg"></div>
 									<div class="text">
 										<p>MARCH 26, 2016</p>
@@ -93,6 +110,7 @@ include_once('../mobile-header.php')
 										</div>
 									</div>
 								</div>
+								</a>
 							</div>
 
 							<div class="container-fluid navigation">
